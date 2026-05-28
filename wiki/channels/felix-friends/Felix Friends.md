@@ -14,6 +14,5 @@ last_updated: 2026-05-27
 **Frequent tickers:** NOW, SNDK, defense/government-contract plays, congressional buy watchlist
 
 **Notable videos**
-- [[channels/felix-friends/videos/2026-05-27-leaked-trumps-100-billion-defense-stock|2026-05-27 — Leaked: Trump's $100 BILLION Defense Stock]]
 
-**Last video:** 2026-05-27
+**Last video:** —
