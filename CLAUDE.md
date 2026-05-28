@@ -27,7 +27,7 @@ wiki/
 
 ## Page types
 
-### Channel pages — `wiki/channels/<channel-slug>/index.md`
+### Channel pages — `wiki/channels/<channel-slug>/<Display Name>.md`
 
 Frontmatter:
 ```yaml
