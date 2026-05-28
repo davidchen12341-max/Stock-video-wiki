@@ -9,11 +9,11 @@ last_updated: 2026-05-28
 
 | Channel | Handle | Page |
 |---------|--------|------|
-| ZipTrader | @ZipTrader | [[channels/zip-trader/index\|ZipTrader]] |
-| Nolan Gouveia | @NolanGouveia | [[channels/nolan-gouveia/index\|Nolan Gouveia]] |
-| Wallstreet Trapper | @WallstreetTrapper | [[channels/wallstreet-trapper/index\|Wallstreet Trapper]] |
-| Tyler Hill Stocks | @TylerHillStocks | [[channels/tyler-hill-stocks/index\|Tyler Hill Stocks]] |
-| Felix Friends | @FelixFriends | [[channels/felix-friends/index\|Felix Friends]] |
+| ZipTrader | @ZipTrader | [[channels/zip-trader/ZipTrader]] |
+| Nolan Gouveia | @NolanGouveia | [[channels/nolan-gouveia/Nolan Gouveia]] |
+| Wallstreet Trapper | @WallstreetTrapper | [[channels/wallstreet-trapper/Wallstreet Trapper]] |
+| Tyler Hill Stocks | @TylerHillStocks | [[channels/tyler-hill-stocks/Tyler Hill Stocks]] |
+| Felix Friends | @FelixFriends | [[channels/felix-friends/Felix Friends]] |
 
 ## Video Summaries
 
