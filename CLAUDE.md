@@ -102,6 +102,7 @@ Good answers (comparisons, synthesis, stock roundups) should be filed back into 
 
 - **File names:** lowercase, hyphens, no spaces. Channel slugs derived from channel name (e.g. `meet-kevin`, `the-plain-bagel`). Video files omit the channel slug since they're already inside the channel folder.
 - **Dates:** ISO 8601 — `YYYY-MM-DD` everywhere.
-- **Links:** use wiki-style relative links between pages, e.g. `[[channels/meet-kevin]]`.
+- **Links:** use Obsidian wikilinks — `[[channels/zip-trader/index|ZipTrader]]` for channel pages, `[[channels/zip-trader/videos/2026-05-28-nvda-analysis|title]]` for videos.
+- **Obsidian Bases:** the `type`, `channel`, `tickers`, and `published` frontmatter fields are queryable in Obsidian's Bases view. Use them to build filtered tables (e.g., all videos tagged `NVDA` sorted by date).
 - **Tickers:** uppercase, no `$` prefix — `NVDA`, `TSLA`, `SPY`.
 - **log.md entries start with:** `## [YYYY-MM-DD] ingest | <channel> — <title>` so they're grep-parseable.
