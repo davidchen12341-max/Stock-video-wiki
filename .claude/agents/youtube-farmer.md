@@ -29,19 +29,21 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
    - **Seed mode:** If the invoking prompt contains `SEED:` followed by a window spec (e.g. `SEED: last 30 days`), parse it and use that date as the floor instead.
    - **Dedup:** Never overwrite an existing file. Before writing, check if the target filename already exists.
 
-4. **Fetch and parse each channel's RSS feed** using this Python snippet via Bash (replace `CHANNEL_ID` for each channel):
+4. **Fetch and parse each channel's RSS feed** using curl (not urllib — macOS Python SSL certs may be broken). Use this pattern via Bash (replace `CHANNEL_ID` for each channel):
 
    ```bash
    python3 - <<'PYEOF'
-   import urllib.request, xml.etree.ElementTree as ET, json
+   import subprocess, xml.etree.ElementTree as ET, json, sys
    url = "https://www.youtube.com/feeds/videos.xml?channel_id=CHANNEL_ID"
    ns = {
        'atom': 'http://www.w3.org/2005/Atom',
        'yt': 'http://www.youtube.com/xml/schemas/2015',
        'media': 'http://search.yahoo.com/mrss/'
    }
-   with urllib.request.urlopen(url) as r:
-       root = ET.parse(r).getroot()
+   result = subprocess.run(['curl', '-sL', url], capture_output=True, text=True, timeout=15)
+   if result.returncode != 0 or not result.stdout.strip():
+       print(json.dumps([])); sys.exit(0)
+   root = ET.fromstring(result.stdout)
    entries = []
    for e in root.findall('atom:entry', ns):
        desc_el = e.find('.//media:description', ns)
@@ -50,7 +52,7 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
            'video_id': e.find('yt:videoId', ns).text,
            'published': e.find('atom:published', ns).text[:10],
            'url': e.find('atom:link', ns).get('href'),
-           'description': desc_el.text if desc_el is not None else ''
+           'description': (desc_el.text or '') if desc_el is not None else ''
        })
    print(json.dumps(entries))
    PYEOF
