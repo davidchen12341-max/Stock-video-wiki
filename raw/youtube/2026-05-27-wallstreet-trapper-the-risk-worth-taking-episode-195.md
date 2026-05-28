@@ -1,56 +1,68 @@
 ---
-source: farmer/youtube
-farmed: 2026-05-28T00:00:00Z
-channel: Wallstreet Trapper
-channel_handle: "@WallstreetTrapper"
-video_id: g_j7rXu7mF8
+channel: wallstreet-trapper
+channel_name: Wallstreet Trapper
 url: https://www.youtube.com/watch?v=g_j7rXu7mF8
+title: "The Risk Worth Taking | Wallstreet Trapper (Episode 195) Trappin Tuesdays"
 published: 2026-05-27
+duration: "3:20:13"
+tickers: [MU, SNDK, STX, WDC, TSM, PL, ASTS, RKLB, NVDA, GS, TSLA, QQQ, TER, TPL, NBIS, ITA, EME, PWR]
 ---
 
-# The Risk Worth Taking | Wallstreet Trapper (Episode 195) Trappin Tuesdays
+# Raw Drop — Wallstreet Trapper: The Risk Worth Taking (Episode 195)
 
-The Risk Worth Taking is betting on the version of you GOD already sees. The Market teaches you that no real reward comes without uncertainty. Everybody want the upside, but few willing to endure the pressure. In life, the biggest losses don't come from failure… they come from never moving at all. Fear will have you protecting comfort while Faith trying to introduce you to purpose. Sometimes the greatest Trade you'll ever make is walking away from who you used to be so you can Become who you were created to Become.
+## Metadata
+- **Source:** YouTube auto-captions + frame extraction (8 frames)
+- **Format:** Weekly live show, Trappin Tuesdays. ~3.5 hours. Mix of motivational opener, Patreon portfolio review, market education, Q&A.
 
-📖 📈Get your Copy of THE RISK WORTH TAKING: https://www.amazon.com/Risk-Worth-Taking-Breaking-TRADING/dp/163763465X 📕 📈
+## Structure
+1. Motivational opening (~60 min) — "The Risk Worth Taking" theme, extended skydiving story from Dubai birthday 2022 as metaphor for overriding fear to pursue extraordinary outcomes
+2. Book promo — "The Risk Worth Taking" by Terry (female trader, Trade and Travel)
+3. Portfolio/trades show-and-tell — Patreon members live review
+4. Market education — earnings/valuation/dividends framework, AI + GDP commentary
+5. Q&A — SpaceX IPO, SpaceX/Tesla merger discussion
 
-⚖🏛 200TH EPISODE - LIVE https://wallstreetlookslikeus.com/trappin-tuesdays-live  🏦🔥
+## Key Financial Content
 
-The Risk Worth Taking | Wallstreet Trapper (Episode 195) Trappin Tuesdays
+### Patreon Portfolio Review
+Trapper walks through his options positions showing ~$800K+ in open profits on the day (noted he missed a million-dollar day by exiting some positions). Key positions mentioned:
+- **Apple, Amazon, Caterpillar, Dell, GEV, GLW** — all in, all performing
+- **Goldman Sachs (GS)** — banks turning bullish; GS got extra push from underwriting SpaceX IPO
+- **MU (Micron)** — up $47K on a single play; had 30 contracts entered, trimmed down to ~5. Core thesis: memory sector re-rating
+- **NBIS** — new play, not yet performing but expects it to "take off"
+- **Planet Labs (PL)** — "my introduction to space"
+- **ASTS + RKLB** — "that's coming soon" — flagged as next space plays but not yet in
+- **SNDK** — "top tier" play; positioned at $20K per contract level. Up big on the day
+- **STX (Seagate)** — was scary (down for a while, community was panicking). Held at key support level, pin bar formed, bounced. Still in
+- **TSM** — community was panicking; still in
+- **TER (Teradyne)** — held multiple positions
+- **WDC (Western Digital)** — heavy memory sector exposure
 
-Join our Exclusive Patreon!!!
-• Creating Financial Empowerment for those who've never had it.
-💎💸💎💸Join our Exclusive Patreon!!! https://hubs.ly/Q03thsJt0💎💎💸💸
+### Recession Portfolio (on-screen at ~2:00:00)
+Separate "recession hedge" portfolio shown on screen:
+MU, NBIS, NVDA (×2), PL, QQQ, SNDK (×2), STX, TER (×2), TSM, WDC
 
-Todays Topics:
-SpaceX and Tesla possible merger, plus a $2billion contract from the government. Is this the IPO that we cannot afford to miss?
+### Freedom Index (Buy & Hold)
+Up 32% YTD vs. market ~10%. Holdings: Costco, EME, FIX, ITA, MU, Nvidia, PWR, STX, TPL.
+Claims 4 consecutive years of double-digit market outperformance.
 
-Key event happening this week that can make or break your portfolio.
+### Market Education Segment
+- Stocks driven by three forces: earnings, valuations, dividends — not hype
+- AI now accounts for ~90% of GDP contribution via hyperscalers/data centers building infrastructure
+- $6 trillion sitting on sidelines — institutional money buys every dip at key levels
+- Trapper's system: "Pullback buys at key support levels" — don't panic when not overleveraged
 
-Trump administration bans the IRS from auditing the taxes of his, his family, and his companies.
+### SpaceX IPO (Viewer Q from Justin — IPO June 12)
+Trapper's view: **Bearish on buying at IPO**
+> "I'm not trying to run and jump on the SpaceX IPO because I know how it's going to go. It's going to run up and then once them people can get liquid, they going to get liquid."
 
-• 💎💸💎💸Join our Exclusive Patreon!!! https://hubs.ly/Q03thsJt0💎💎💸💸
-• 💎🤑💰💸BEST OPTIONS COURSE EVER https://hubs.ly/Q03thtcj0💎🤑💰💸
-• 🏦🇺🇸HOW TO INVEST IN A DONALD TRUMP MARKET:  https://hubs.ly/Q03thtdd0🇺🇸🏦
-• 🤑Exclusive Trapper Apparel: https://trapperapparelinc.com 🤑 
-• 💎🤑💰💸 WALLSTREET TRAPPING COURSE: https://hubs.ly/Q03thvyD0 💎🤑💰💸
-• 🏛⚖Join Trappers Anonymous: https://hubs.ly/Q03thxbW0  ⚖🏛 
-• FAST, SIMPLE & EASY STEPS TO BECOMING A STOCK INVESTOR https://hubs.ly/Q03thtTR0 🏛⚖🏛⚖🏛⚖
+Valuation concern: SpaceX at ~$1.75T with $18B revenue = ~1000x multiple. Amazon is $2.8T with $275B revenue = 10x. "That company is way overvalued." Will wait for post-IPO lock-up expiry selloff and re-entry at a justified multiple.
 
-NNBODY RX - TRAPPER Exclusive 🔥
-Level Up HEALTH and HUSTLE https://nnbody.co/collections/trappin-tuesday-special 💪🏽✨
+### SpaceX / Tesla Merger Discussion (CNBC clip played)
+- SpaceX potential market cap ~$1.5T; Tesla ~$1.6T
+- Six legal experts: merger won't raise antitrust concerns but raises valuation/compensation questions
+- Musk holds 85% voting power in SpaceX — likely no pushback
+- Musk's SpaceX performance targets: $7.5T market cap; a merger would get to ~$3.5T
+- Also needs 1 million people on Mars for full bonus!
 
-• 🎵🎶Trappin Tuesdays (AUDIO) Every Thursday at 5pm (Apple Podcast) https://podcasts.apple.com/us/podcast... 🎵🎶
-• 🎵🎶 Trappin Tuesdays (Spotify): https://open.spotify.com/show/0OZygNZ... 🎵🎶
-
- Music Produced by MOOKBEATS
-
-From the streets to the stock market. Every Tuesday we bring financial empowerment to those who feel like they don't have the power.
-
-The Risk Worth Taking | Wallstreet Trapper (Episode 195) Trappin Tuesdays
-
-We are Trailblazing our way to Wealth. 
-History in the Making!! 
-Wallstreet Looks Like Us Now!! 
-
-#WallstreetTrapper #WallstreetLooksLikeUsNow #StockMarket
+### Trump / IRS Commentary
+Brief discussion: both Democrats and Republicans avoid taxes; pointing fingers at each other is a distraction tactic to keep poor people from realizing both sides benefit. Context: Trump admin moved to restrict IRS audits of his family/companies.
