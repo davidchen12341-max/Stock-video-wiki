@@ -14,6 +14,5 @@ last_updated: 2026-05-27
 **Frequent tickers:** MU, SNDK, STX, TSM, WDC (memory sector), ASTS, RKLB, PL (space), GS/MS (SpaceX IPO angle), NVDA
 
 **Notable videos**
-- [[channels/wallstreet-trapper/videos/2026-05-27-the-risk-worth-taking-episode-195|2026-05-27 — The Risk Worth Taking (Ep. 195)]]
 
-**Last video:** 2026-05-27
+**Last video:** —
