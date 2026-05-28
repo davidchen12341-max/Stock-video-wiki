@@ -19,3 +19,4 @@ last_updated: 2026-05-28
 
 | Date | Channel | Title | Tickers |
 |------|---------|-------|---------|
+| 2026-05-27 | ZipTrader | [[channels/zip-trader/videos/2026-05-27-this-1-stock-just-got-massive-trump-backing\|This 1 Stock Just Got MASSIVE Trump Backing]] | INFQ, QBTS, RGTI, RDW, MNTS, NVTS |
