@@ -1,1 +1,9 @@
-{}
+{
+  "userIgnoreFilters": [
+    "raw",
+    "references",
+    "scripts",
+    "SKILL.md",
+    ".claude"
+  ]
+}

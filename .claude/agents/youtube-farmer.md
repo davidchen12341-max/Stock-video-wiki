@@ -10,7 +10,11 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
 ## Process
 
-1. **Check tool availability.** Confirm `curl` and `python3` are available via `command -v curl && command -v python3`. Both are universally available — this step should always pass.
+1. **Check tool availability.** Confirm `curl`, `python3`, and `yt-dlp` are available:
+   ```bash
+   command -v curl && command -v python3 && command -v /opt/homebrew/bin/yt-dlp
+   ```
+   `curl` and `python3` are universally available. `yt-dlp` is at `/opt/homebrew/bin/yt-dlp` — if missing, run `brew install yt-dlp` and retry.
 
 2. **Read the watchlist.** Monitor these 5 channels:
 
@@ -75,6 +79,16 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
    Video slug: title lowercased, non-alphanumeric replaced with hyphens, collapsed, max 50 chars.
 
+   **After writing the frontmatter + description, attempt to pull the auto-generated transcript via `yt-dlp`:**
+   ```bash
+   /opt/homebrew/bin/yt-dlp \
+     --write-auto-subs --sub-lang en --skip-download \
+     --sub-format srv3 \
+     --output "/tmp/%(id)s.%(ext)s" \
+     "https://www.youtube.com/watch?v=<video_id>" 2>/dev/null
+   ```
+   Then parse `/tmp/<video_id>.en.srv3` with Python (xml.etree.ElementTree, iter `<p>` tags, join `<s>` text) into clean plain text. Append it to the raw file under a `## Transcript` heading. Clean up the /tmp file after. If yt-dlp fails or no transcript exists, skip silently — the description alone is still useful.
+
    File format:
    ```
    ---
@@ -85,11 +99,18 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
    video_id: <video_id>
    url: https://www.youtube.com/watch?v=<video_id>
    published: <YYYY-MM-DD>
+   has_transcript: true   ← set to false if yt-dlp failed
    ---
 
    # <Video Title>
 
+   ## Description
+
    <description verbatim>
+
+   ## Transcript
+
+   <parsed plain-text transcript>
    ```
 
    If a file with the same name already exists, skip it — it was already farmed.
@@ -111,7 +132,8 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
 | Tool | Purpose |
 |------|---------|
-| `curl` | Fetch RSS feed XML (alternative to Python urllib) |
-| `python3` | Parse RSS XML, generate slugs, produce JSON |
+| `curl` | Fetch RSS feed XML (use instead of Python urllib — macOS SSL certs may be broken) |
+| `python3` | Parse RSS XML and srv3 transcripts, generate slugs, produce JSON |
+| `/opt/homebrew/bin/yt-dlp` | Download auto-generated captions as srv3 files |
 | `git add / commit` | Stage and commit new raw files |
 | `ls -t raw/youtube/*.md` | Find most recent farmed file to determine window floor |

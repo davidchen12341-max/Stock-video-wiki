@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe5026c05e639cd",
+        "id": "5346a3c8506130ab",
         "type": "tabs",
         "children": [
           {
-            "id": "3035de4b9fd5e9af",
+            "id": "117e6248ab5184fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -176,6 +176,42 @@
       "bases:Create new base": false
     }
   },
-  "active": "3035de4b9fd5e9af",
-  "lastOpenFiles": []
+  "active": "117e6248ab5184fa",
+  "lastOpenFiles": [
+    "wiki/channels/zip-trader/ZipTrader.md.tmp.61489.b7a15dc6395b",
+    "raw/youtube/2026-05-27-felix-friends-leaked-trumps-100-billion-defense-stock.md",
+    "wiki/channels/tyler-hill-stocks/index.md",
+    "wiki/channels/felix-friends/Felix Friends.md",
+    "wiki/channels/tyler-hill-stocks/Tyler Hill Stocks.md",
+    "wiki/channels/wallstreet-trapper/Wallstreet Trapper.md",
+    "wiki/channels/nolan-gouveia/Nolan Gouveia.md",
+    "wiki/channels/zip-trader/ZipTrader.md",
+    "wiki/channels/nolan-gouveia/index.md",
+    "wiki/index.md",
+    "references/farmer-template.md",
+    "references/farm-prompt.md",
+    "references/create-farmer.md",
+    "raw/youtube/2026-05-27-zip-trader-this-1-stock-just-got-massive-trump-backing.md",
+    "raw/youtube/2026-05-27-wallstreet-trapper-the-risk-worth-taking-episode-195.md",
+    "raw/youtube/2026-05-27-tyler-hill-stocks-micron-stock-it-is-officially-happening.md",
+    "wiki/channels/felix-friends/index.md",
+    "CLAUDE.md",
+    "wiki/channels/felix-friends/videos/2026-05-27-leaked-trumps-100-billion-defense-stock.md",
+    "wiki/log.md",
+    "wiki/channels/tyler-hill-stocks/videos/2026-05-27-micron-stock-it-is-officially-happening.md",
+    "wiki/channels/wallstreet-trapper/videos/2026-05-27-the-risk-worth-taking-episode-195.md",
+    "wiki/channels/zip-trader/videos/2026-05-27-this-1-stock-just-got-massive-trump-backing.md",
+    "wiki/channels/wallstreet-trapper/index.md",
+    "wiki/channels/zip-trader/index.md",
+    "wiki/channels/zip-trader/videos",
+    "wiki/channels/wallstreet-trapper/videos",
+    "wiki/channels/tyler-hill-stocks/videos",
+    "wiki/channels/nolan-gouveia/videos",
+    "wiki/channels/felix-friends/videos",
+    "wiki/channels/zip-trader",
+    "wiki/channels/wallstreet-trapper",
+    "wiki/channels/tyler-hill-stocks",
+    "wiki/channels/nolan-gouveia",
+    "wiki/channels/felix-friends"
+  ]
 }
