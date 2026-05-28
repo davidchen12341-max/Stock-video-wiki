@@ -29,21 +29,44 @@ wiki/
 
 ### Channel pages — `wiki/channels/<channel-slug>/index.md`
 
-One page per YouTuber. Contains:
-- Name, channel URL, subscriber count (update on ingest if changed)
+Frontmatter:
+```yaml
+---
+type: channel
+name: <Full Channel Name>
+handle: <@handle>
+url: https://www.youtube.com/@handle
+tags: [channel]
+last_updated: <YYYY-MM-DD>
+---
+```
+
+Body contains:
 - Content style: what they cover, their typical format, their bias/approach
-- Notable video list: top 5-10 videos worth revisiting, with links to their video pages
-- Tickers they frequently mention
-- Last updated date
+- Tickers they frequently mention (keep a running list, update on each ingest)
+- Notable videos list: top videos worth revisiting, with `[[wikilinks]]` to their summary pages
+- Last video date
 
 ### Video summaries — `wiki/channels/<channel-slug>/videos/<YYYY-MM-DD>-<short-title>.md`
 
-One page per video. Contains:
-- Title, channel, publish date, YouTube URL
-- 3-5 bullet key takeaways
-- Tickers mentioned (list at top for easy scanning)
-- Thesis or main argument in one sentence
-- Any notable calls, predictions, or strong opinions
+Frontmatter:
+```yaml
+---
+type: video
+channel: <channel-slug>
+title: <Full Video Title>
+url: https://www.youtube.com/watch?v=<video_id>
+published: <YYYY-MM-DD>
+tickers: [NVDA, TSLA]   ← uppercase, all tickers mentioned
+tags: [<channel-slug>, <ticker1>, <ticker2>]
+---
+```
+
+Body contains:
+- **Thesis:** one sentence — the main argument or call
+- **Key takeaways:** 3-5 bullets
+- **Tickers mentioned:** inline list for quick scanning
+- **Notable calls:** any specific price targets, predictions, or strong opinions
 
 ---
 
