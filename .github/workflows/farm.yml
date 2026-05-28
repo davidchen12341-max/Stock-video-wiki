@@ -1,0 +1,41 @@
+name: YouTube Farmer
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 7am PST / 10am EST daily
+  workflow_dispatch:         # manual trigger from GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  farm:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install yt-dlp
+        run: pip install yt-dlp
+
+      - name: Run farmer
+        run: python scripts/farm.py
+
+      - name: Commit and push new files
+        run: |
+          git config user.name "youtube-farmer[bot]"
+          git config user.email "youtube-farmer[bot]@users.noreply.github.com"
+          git add raw/youtube/
+          if git diff --staged --quiet; then
+            echo "Nothing new — no commit needed"
+          else
+            COUNT=$(git diff --staged --name-only raw/youtube/ | wc -l | tr -d ' ')
+            git commit -m "farm: youtube ${COUNT} items"
+            git push
+          fi

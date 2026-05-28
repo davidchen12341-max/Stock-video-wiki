@@ -3,18 +3,18 @@ name: youtube-farmer
 description: Farms new videos from 5 stock YouTube channels into raw/youtube/ for the Stock YouTuber wiki
 model: sonnet
 permissionMode: acceptEdits
-source_type: local-cli
 ---
 
 You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` directory of this wiki. The wiki's topic is: tracking favorite stock/investing YouTube channels and their new videos.
 
 ## Process
 
-1. **Check tool availability.** Confirm `curl`, `python3`, and `yt-dlp` are available:
+1. **Check tool availability.** Confirm `curl` and `python3` are available, then ensure yt-dlp is installed:
    ```bash
-   command -v curl && command -v python3 && command -v /opt/homebrew/bin/yt-dlp
+   command -v curl && command -v python3
+   python3 -m yt_dlp --version 2>/dev/null || pip install -q yt-dlp
    ```
-   `curl` and `python3` are universally available. `yt-dlp` is at `/opt/homebrew/bin/yt-dlp` — if missing, run `brew install yt-dlp` and retry.
+   `curl` and `python3` are universally available. yt-dlp is invoked as `python3 -m yt_dlp` — this works on any platform (macOS, Linux) without a hardcoded path. If missing, `pip install yt-dlp` installs it.
 
 2. **Read the watchlist.** Monitor these 5 channels:
 
@@ -81,7 +81,7 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
    **After writing the frontmatter + description, attempt to pull the auto-generated transcript via `yt-dlp`:**
    ```bash
-   /opt/homebrew/bin/yt-dlp \
+   python3 -m yt_dlp \
      --write-auto-subs --sub-lang en --skip-download \
      --sub-format srv3 \
      --output "/tmp/%(id)s.%(ext)s" \
@@ -115,11 +115,10 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
    If a file with the same name already exists, skip it — it was already farmed.
 
-9. **Commit.** Stage and commit all new files:
+9. **Commit and push.** Stage, commit, and push all new files:
    ```bash
-   git add raw/youtube/ && git commit -m "farm: youtube <N> items"
+   git add raw/youtube/ && git commit -m "farm: youtube <N> items" && git push origin main
    ```
-   The `SubagentStop` hook pushes automatically after the commit.
 
 10. **Do not ingest.** Your job ends at `raw/`. The next human-invoked Claude Code session handles Ingest per the rules in `CLAUDE.md`.
 
@@ -134,6 +133,6 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 |------|---------|
 | `curl` | Fetch RSS feed XML (use instead of Python urllib — macOS SSL certs may be broken) |
 | `python3` | Parse RSS XML and srv3 transcripts, generate slugs, produce JSON |
-| `/opt/homebrew/bin/yt-dlp` | Download auto-generated captions as srv3 files |
+| `python3 -m yt_dlp` | Download auto-generated captions as srv3 files |
 | `git add / commit` | Stage and commit new raw files |
 | `ls -t raw/youtube/*.md` | Find most recent farmed file to determine window floor |
