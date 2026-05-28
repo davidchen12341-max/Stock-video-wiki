@@ -10,6 +10,8 @@ last_updated: 2026-05-27
 
 # Wallstreet Trapper
 
+> **Two channels:** Main channel (@WallstreetTrapper) for shorter-form stock content; podcast channel (@wallstreetlookslikeusnow) for full Trappin Tuesdays live shows. Farm from the **main channel** going forward.
+
 **Style:** Weekly podcast-style show (Trappin Tuesdays, every Tuesday). Blend of financial empowerment, market commentary, and personal development. Strong focus on options trading education and building generational wealth for underserved communities. Motivational tone.
 
 **Frequent tickers:** MU, SNDK, STX, TSM, WDC (memory sector), ASTS, RKLB, PL (space), GS (SpaceX IPO underwriter), NVDA, TER, TPL, QQQ
