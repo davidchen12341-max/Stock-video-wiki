@@ -13,8 +13,8 @@ raw/          ← immutable source drops (JSON/text from the YouTube farmer)
 wiki/
   channels/
     <channel-slug>/
-      index.md    ← channel overview page
-      videos/     ← one page per video from this channel
+      <Display Name>.md   ← channel overview page (named after the YouTuber, e.g. "ZipTrader.md")
+      videos/             ← one page per video from this channel
   index.md    ← catalog of every page with one-line summaries
   log.md      ← append-only ingest timeline
 ```
