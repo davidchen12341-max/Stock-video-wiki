@@ -2,7 +2,8 @@
 type: channel
 name: Wallstreet Trapper
 handle: "@WallstreetTrapper"
-url: https://www.youtube.com/@WallstreetTrapper
+url: https://www.youtube.com/@WallstreetTrapper/videos
+podcast_channel: https://www.youtube.com/@wallstreetlookslikeusnow/videos
 tags: [channel]
 last_updated: 2026-05-27
 ---
