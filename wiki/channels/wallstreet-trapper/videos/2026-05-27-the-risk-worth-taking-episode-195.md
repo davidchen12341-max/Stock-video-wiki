@@ -6,6 +6,7 @@ url: https://www.youtube.com/watch?v=g_j7rXu7mF8
 published: 2026-05-27
 tickers: [MU, SNDK, STX, WDC, TSM, PL, ASTS, RKLB, NVDA, GS, TSLA, QQQ, TER, TPL, NBIS, EME, PWR, ITA]
 tags: [wallstreet-trapper, MU, SNDK, STX, SpaceX, TSLA, ASTS, RKLB]
+source_channel: podcast (@wallstreetlookslikeusnow)
 ---
 
 # The Risk Worth Taking | Episode 195
