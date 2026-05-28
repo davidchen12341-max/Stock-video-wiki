@@ -14,6 +14,5 @@ last_updated: 2026-05-27
 **Frequent tickers:** NVTS, RDW, MNTS, INFQ, QBTS, RGTI (quantum/space momentum), SaaS names (BigBear AI, NOW, CRM)
 
 **Notable videos**
-- [[channels/zip-trader/videos/2026-05-27-this-1-stock-just-got-massive-trump-backing|2026-05-27 — This 1 Stock Just Got MASSIVE Trump Backing]]
 
-**Last video:** 2026-05-27
+**Last video:** —
