@@ -79,7 +79,7 @@ Triggered when new files appear in `raw/` (dropped by the YouTube farmer).
 For each new raw file:
 1. Read the file — it contains video metadata and transcript/description from the farmer
 2. Create or update the video summary page in `wiki/channels/<channel-slug>/videos/`
-3. Update the channel page at `wiki/channels/<channel-slug>/index.md` — add the video to notable list if it's high-quality, update last-seen date, update frequently-mentioned tickers
+3. Update the channel page at `wiki/channels/<channel-slug>/<Display Name>.md` — add the video to notable list if it's high-quality, update last-seen date, update frequently-mentioned tickers
 4. Update `wiki/index.md` — add the new video page entry
 5. Append to `wiki/log.md`: `## [<date>] ingest | <channel> — <video title>`
 
