@@ -1,44 +1,130 @@
 ---
 source: farmer/youtube
-farmed: 2026-05-29T06:00:00Z
+farmed: 2026-05-29T09:00:00Z
 channel: ZipTrader
 channel_handle: "@ZipTrader"
 video_id: LmSBlSbQa5I
 url: https://www.youtube.com/watch?v=LmSBlSbQa5I
 published: 2026-05-29
+duration: "16:11"
+tickers: [UMAC, AVAV, KTOS, ONDS, RDW, MNTS, CRM, BBAI]
 has_transcript: true
 ---
 
 # This $5 Stock Has CRAZY Potential
 
-## Description
+## Metadata
+- **Source:** YouTube auto-captions + frame extraction (10 frames)
+- **Context:** Memorial Day week. UMAC spiked 95% in a month on WSJ report of Pentagon drone funding talks. Prior ZipTrader space picks (RDW, MNTS) have made massive moves. CRM reported record earnings that the market ignored. The "main entree" is BBAI (BigBear.AI) — the actual $5 stock — with multiple June catalysts lined up.
 
-⏰LAST CALL: 50% Off One Year Membership Memorial Day Sale ➤ https://ziptrader.com/memorial50
+**NOTE:** The previous raw file for this video (created by automated farmer) contained content from a DIFFERENT ZipTrader video (about ABSI/AMSS). That content was wrong. This file contains the correct analysis from the actual video (LmSBlSbQa5I).
 
-Time Stamps
-0:00 INTRO
-0:52 50% OFF ENDING
-1:24 BIG RUNNER!
-3:21 REPEATED PATTERN
-4:58 SPACE STOCKS
-8:43 RISK WARNING
-9:16 DEEP VALUE
-12:04 CRAZY DEAL
+## Summary
+Four-part video: (1) UMAC spiked on drone Pentagon funding talks — Charlie explains the "spread outward by association" pattern and warns the initial pop often fades; (2) celebratory update on prior space calls RDW (+193% from entry) and MNTS (+152% in ~9 days), with a significant dilution warning on MNTS; (3) CRM/Salesforce had a historic earnings beat — record revenue, 265% Agentforce growth, $25B buyback — but the market slept on it; (4) **BBAI (BigBear.AI) is the main $5 pick** with a 2031 bull case of $58, currently around $5 after bottoming at ~$3.4 on March 30, with multiple June catalysts stacked.
 
-Business & ZipTrader Support Inquiries charlie@ziptrader.com 
+---
 
-#notfinancialadvice  
- 
-⚠️Terms of Service & Disclaimer:
+## Section 1 — UMAC & Drone Stocks
 
-BY USING ZIPTRADER & ALL CONTENT YOU AGREE: This is not financial advice. You must do your own due diligence on all information. ZipTrader LLC is a publishing company and we provide general information, opinions, & news coverage to viewers. However – we do not provide personalized financial advice, are not financial advisors, and our opinions are not suitable for all investors. You should not treat any opinion as expressed as a specific inducement to make a particular investment or follow a particular strategy, but just as an opinion. Use at your own risk.
+**What happened:** Wall Street Journal reported the Pentagon is in talks to aggressively back and take stakes in the domestic drone sector, specifically naming UMAC. At time of filming UMAC was up 26%, ended the session up 50%+.
 
-THE STOCK MARKET IS RISKY: Most traders in all markets lose all of their money (and more if they use margin). Most small businesses fail. Do NOT partake in trading, investing, entrepreneurship or any other risky endeavor covered in this content if you are not prepared with the reality that most fail. 
+**Confirmed by frames:** UMAC chart and Momentus chart visible; prior March 2026 ZipTrader video ("3 Stocks To BUY NOW In March 2026") shown as track record reference.
 
-AFFILIATE DISCLOSURE:  Some of the links on this webpage are affiliate links, meaning, at no additional cost to you, I may earn a commission if you click through and make a purchase and/or subscribe.
+**The Pattern (Charlie's framework, shown as text overlay in frame 3):**
 
-Full Terms of Service - https://ziptrader.com/termsofservice/
+1. **Named stock gets the violent move.** UMAC gaps 26%+ because it was specifically named. Smaller the company, bigger the headline relative to size → sharper the spike.
+2. **Move spreads outward by association.** Traders rotate into drone basket — **AVAV, KTOS, ONDS**. These move less and later because they're riding sentiment, not confirmed money. "It's the market saying: if Washington's funding drones, the whole space probably benefits."
+3. **Initial pop often fades.** "A report about talks is NOT a signed deal." Headlines spike hard on open, give back as adrenaline wears off. Saw milder version of this in April when Trump's FY2027 budget allocated record drone dollars.
 
-## Transcript
+**Charlie's take on UMAC long-term:** Continues to believe long-term upside potential. For **KTOS** specifically: "really good value right now, but just wait a little — the sell-the-news cycle is going to happen again."
 
-Folks, I believe this $5 stock is screaming buy. I believe if you come back to this video in six months, a year from now, especially two years from now, you're going to be looking back and you're going to be kicking yourself if you didn't buy this stock. In today's video, we're going to break down four things. Number one, why drone stocks are starting to reignite. Number two, how far I anticipate the SpaceX associated stocks like Mnts and RDW will rally before June 12th. Number three, we're going to talk about a deep value company I believe presents a truly unique and compelling opportunity. And number four, I'm going to show you what I believe is just a ridiculous deal for a company that is both deep value and has massive potential catalysts for the future. Now, I realize that sounds like a lot of hype. But do me a favor, stick around to the end, and I think you'll see exactly why I'm so bullish on this opportunity. Before I do that, I want to remind you guys that we have a huge sale going on right now that ends very soon. 50% off a one-year membership to ZipTrader. This is our biggest discount we've ever done. And it ends Memorial Day, which is tomorrow. So if you guys want in, uh, you need to go to ziptrader.com/ memorial 50. And that link is going to be in the description. Okay, so first off, let's talk about drone stocks. Um, so if you look at this chart right here, uh, this is Unusual Machines. It was a pick I talked about two days ago. And since then, it's gone up over 50%, right? So we have another big winner here and we had this big pattern, right? We had this big accumulation phase and then you had this big runner up and then it sort of consolidated a little bit and it kept going up. So what this represents is a pattern that we've been seeing a lot in these SpaceX and drone stocks, right? I talked about this the other day. If you go back and look at the chart, you can see that this has been a repeated pattern where it goes up, it consolidates, it goes up again. This is a sign of healthy momentum in a stock and it's something that's been very very common in these SpaceX type stocks and drone type stocks. Now um one thing that you know if you're thinking about these stocks and you see big runners come up it can be really tempting to go in and FOMO in after the run has happened but I want to warn you against that for a couple of reasons. Number one, uh, whenever a stock has gone up 50% on the same day or in two days, uh, you are not getting in at the beginning of the rally. Okay? You are getting in after the fact. These kinds of moves can be very very volatile and it can be extremely difficult to hold. Uh if there's a sharp pullback and it can lead to poor entry. So um the way that I really like to think about this is you want to position yourself ahead of time in these stocks. Not after they've already had a 50% runner. Uh, and so the question is, what's next? And the way I think about it is that these patterns of big runs, consolidations, and then re-runs, they give you a signal. And it says to you that the momentum is building and that we haven't seen the top yet. Um, so personally what I've been doing is I've been holding stocks like MNTS, RDW, and AMSS as well. And I want to talk about why I like those going forward. But first, I want to give you a kind of framework for thinking about what might happen before June 12th, which is when the SpaceX IPO is widely expected. Let me pull up the RDW chart here. So RDW Redwire is a stock I talked about many times. Um, it's had some very big runs, okay? Um, but it's also been under accumulation if you look at the bigger trend here. Right? We went up, we came back down to accumulate, we went up big, we came back down to accumulate, we went up big, we came back down to accumulate, and we're starting to go up again. Now, the longer term goal here is potentially much higher levels. I think we're talking about potentially $10, $15, $20 long term for this stock. It was at $28 before, uh, it had a lot of issues. So there's a case to be made that this is a deep value play as well. But the shorter term goal here is I think we can go to $6, $7, $8. I think that those are very realistic targets for this stock going into the SpaceX IPO time frame. MNTS, similar story. This was a$2 stock or a $3 stock just a little while ago. Um, we're starting to see volume creep up here. Uh, and again, this kind of repeated pattern of higher highs and higher lows is very bullish. The thing I keep coming back to is that if you think about all of the stocks associated with SpaceX, right, it's not just SpaceX itself that's going to rip. It's companies like planet labs that have contracts with SpaceX. It's companies like AST SpaceMobile that have satellite networks. It's companies like Redwire and MNTS that provide hardware and infrastructure for the space economy. Those stocks could see massive rallies going into the IPO. Um, and I think the next few weeks are going to be very important. Okay, so let me now get to the real meat of the video, which is this $5 stock. Um, so there is a company called Absci. The ticker is ABSI. This is a company that is in the AI drug discovery space. Um, and I'll be the first to say that I've looked at this company many times, um, and I've always been intrigued by what they're doing, but I've never been fully convinced to add it to my portfolio. But I'll tell you what changed my mind. There was some news that came out recently. Eli Lilly and Absci announced a multi-year collaboration agreement. Eli Lilly is one of the most prestigious pharmaceutical companies in the world. They are a leader in diabetes treatment, in cancer treatment, and in several other major health conditions. The fact that they chose Absci as a partner says a tremendous amount about the quality of the technology that Absci has built. Now, the deal terms are not fully disclosed, but what we do know is that it's a multi-year deal with milestone payments and royalties. That's huge. That means that if Absci's technology works and helps Eli Lilly develop a drug successfully, Absci is going to see significant upside. Now, why is this a $5 stock? Well, it's a $5 stock partly because AI drug discovery is still a pretty new and unproven space. And people are skeptical about whether AI can actually speed up drug discovery in a meaningful way. But I think that Eli Lilly's seal of approval is huge. Uh, and it significantly de-risks the thesis. Now, I want to also point out that Absci has been building partnerships and making progress in a very deliberate way. They're not one of these companies that's just burning cash with no plan. They have a clear roadmap and they're executing on it. Um, so that to me is why I think the risk-reward at $5 is very compelling. Now, let me talk about the deep value component. So Absci has something on its balance sheet that is actually quite remarkable for a $5 stock. Um, they have a significant amount of cash relative to their market cap. Um, and this provides a kind of floor or safety net. So even if the AI drug discovery doesn't work out perfectly, you have this cash buffer that limits the downside significantly. Um, and that to me is a really important consideration. Okay, so let me now move to the absolutely ridiculous deal. Um, so the stock I want to talk about here is actually a company that is both deep value and has massive upside potential. Um, I've been building a position in this. And the ticker is AMSS, which is AMASS Brands. Now, I know what some of you are thinking. You're thinking, wait, wasn't AMSS a sponsored stock? Um, and yes, there was a sponsored segment last week about AMSS. I want to be very clear and transparent about that. The sponsored content has ended. The reason I'm bringing it up today in the non-sponsored section of the video is because I've done my own independent due diligence since then and I genuinely believe in the opportunity. Um, so let me break down why. AMASS Brands has two core divisions. They have a CBD division, uh, formerly known as MFUSED. And they also have a cannabis-related subsidiary. But more importantly, they are in the process of building out a licensing agreement platform that connects brands with production facilities. This is actually a really smart business model because it's asset-light. Um, and it allows them to scale without having to own every single production facility. Now, what makes AMSS compelling to me right now is the valuation. This company is trading at a very very low price relative to the assets that it has. And there are significant catalysts coming up in the next few months. So for me, at this price level, at around $5, the risk-reward is very asymmetric. The downside is limited, the upside is very significant. Um, and that's why I'm continuing to add to my position here. Alright guys, that's going to do it for today. If you haven't already, make sure you check out our Memorial Day sale. It ends tomorrow. 50% off a one-year membership. Very excited to be sharing these opportunities with you. Good luck trading.
+---
+
+## Section 2 — Space Stocks Update (RDW + MNTS)
+
+### Redwire (RDW)
+- **Entry call:** $8.69 on May 5th
+- **Current price at filming:** $25.44 — up **+193%** in under a month
+- **Business quality:** High. Established space hardware/components, diversified revenue, backlog across commercial + defense. Solar arrays, avionics, deployable structures, sensors, space biotech manufacturing. Edge Autonomy acquisition added drone capability (timely given Pentagon drone news).
+- **Charlie's characterization:** High-quality business, minimal dilution risk, lots of long-term potential. "Beautiful real backlog."
+
+### Momentus (MNTS)
+- **Entry call:** $7.38 on May 19
+- **Current price at filming:** $18.62 — up **+152%** in ~9 days (confirmed in frame: MNTS 5D chart showing spike from ~$6 on May 22 to $18.62)
+- **Business story:** Micro cap focused on in-space transportation. Vigoride orbital transfer vehicle ferries satellites to final orbits. Former US Under Secretary of Defense for Policy (Trump's 1st term) serves as CEO/Chairman John RDE. Former Canadian astronaut and ISS commander Chris Hadfield on board of directors.
+- **Dilution risk (KEY WARNING):** Company registered a **$200M shelf offering** — this is on a ~$185M market cap stock. Not the actual dilution yet, just the registration. SEC approval takes 30-60 days + restrictions after. Charlie's read: buyers for the SpaceX IPO run aren't worried yet because dilution is still weeks away, but **it is coming after the thesis plays out.** Also had a $25M private placement that markets absorbed without reaction.
+- **Charlie's framework for MNTS vs RDW:** "Way smaller, way more aggressive moves are possible. Higher risk, quality product, but huge dilution history and big dilution probably coming after June 12th SpaceX IPO."
+
+**SpaceX IPO context:** Widely expected June 12th. All SpaceX-associated names (planet labs, AST SpaceMobile, MNTS, RDW) could see anticipatory runs into the date.
+
+---
+
+## Section 3 — CRM (Salesforce): Historic Earnings, Market Slept On It
+
+**Q1 FY2026 results (confirmed by frame showing Agentforce metrics):**
+- **Revenue:** $11.1B — record high, +13% YoY, beat estimates
+- **EPS:** $3.88 vs. $3.12 expected — **+24% beat**, profit more than doubled YoY
+- **Agentforce:** Crossed **$1B ARR for first time ever**, grew **+265% YoY** (visible in frame: "THE AI ENGINE BEHIND THE BEAT +265%")
+- **Combined AI + Data business:** Pushing $3.4B, AI agents completed billions of tasks last quarter (more than doubled in 3 months)
+- **Free cash flow:** $6.6B, up YoY
+- **Buyback:** $25B share repurchase announced
+- **Slight guidance miss:** Due to renewal timing on an older product + acquisition lumpiness — nothing to do with AI concerns
+
+**Charlie's thesis:** "Salesforce is no victim of the AI shift — it's the one selling it." Bears assumed per-seat pricing would collapse as AI reduces headcount. Wrong: Salesforce now charges per AI task/action, so more AI work = more Salesforce revenue. "The very thing bears are scared of actually turns into more revenue for Salesforce."
+
+**Call:** "One of the most obvious blue chip value buys in today's market and it's not particularly close. A gimme buy right now."
+
+---
+
+## Section 4 — BBAI (BigBear.AI): The Main $5 Pick
+
+**Current situation:**
+- March 30th: Charlie called BBAI at **~$3.4** (transcript says "$34" but context — "$5 stock" + "up 54%" — confirms $3.40). That day was the absolute cycle low.
+- As of filming: **~$5.24** (up ~54% from $3.4 bottom)
+- Charlie has been bullish at many price points: "I think this stock has never traded at a price that factored in where it should be in 4, 5, 10 years."
+
+**2031 Price Thesis (confirmed in detailed frame):**
+| Scenario | Price Target | Revenue Assumption |
+|----------|-------------|-------------------|
+| Bull | **$58** | $1.1B+ by 2031 |
+| Base | **$32** | $750M–$1B by 2031 |
+| Bear | **$11** | Below $750M |
+
+Revenue segments: National Security & Defense, Digital Identity & Biometrics, Ask Sage Platform
+
+**Backlog:** $282M — "Did BBAI convert this into revenue?" is Wall Street's #1 watch metric.
+**Full-year guidance:** $135–165M revenue (Q1 already beat)
+
+**June Catalyst Stack:**
+
+| Catalyst | Date | Expected Move |
+|---------|------|--------------|
+| Shareholder meeting (CEO + CFO Q&A) | June 9 | -1% to +15% |
+| New government contracts (every 2-3 weeks) | Ongoing | -1% to +12% each |
+| Congress AI defense budget debate | June | +4% to +25% |
+| Ask Sage federal agency wins | Ongoing | +10% to +20% per win |
+| Q2 earnings | ~Aug 5 | **15–30%** ("biggest move of summer") |
+
+**May contract wins (recent evidence):** $53M classified intel community contract, biometric deployments at Chicago O'Hare + Dallas Fort Worth, new shipbuilding work with Chantier Davie + Bollinger, expanded Ask Sage contracts with NASA, Army Intelligence, Naval Research Lab.
+
+**Charlie's call:** "BBAI is an obvious buy right now... I think the stock has a lot of opportunity to start recovering and building long-term."
+
+---
+
+## Tickers Mentioned
+
+- **UMAC** — Unusual Machines, up 95% in past month, direct Pentagon drone funding play
+- **AVAV, KTOS, ONDS** — indirect drone basket, "ride sentiment and read-through"
+- **RDW** — Redwire, from $8.69 → $25.44 (+193%), high-quality space business
+- **MNTS** — Momentus, from $7.38 → $18.62 (+152%), DILUTION RISK ($200M shelf registered)
+- **CRM** — Salesforce, record Q1 earnings, Agentforce $1B+ ARR, "gimme buy"
+- **BBAI** — BigBear.AI, main $5 pick, $58 2031 bull case, multiple June catalysts
+
+## Notable Calls
+
+- **BBAI:** $58 bull case by 2031; current ~$5 is a great entry; Q2 earnings (~Aug 5) is "biggest move of summer" at 15-30% potential
+- **CRM:** "Gimme buy." Bears are wrong — Salesforce is selling the AI that was supposed to kill it
+- **RDW:** Already +193% from Charlie's May 5 entry at $8.69 — celebrating the call, not a new buy recommendation
+- **MNTS:** CRITICAL — dilution coming after SpaceX IPO window. If playing MNTS, understand the dilution runway ends ~30-60 days after the $200M shelf SEC approval
+- **UMAC/KTOS:** "Wait for the sell-the-news cycle before buying KTOS"
+- **Philosophy:** "If you want to do well on aggressive stocks, you have to understand risk management."
