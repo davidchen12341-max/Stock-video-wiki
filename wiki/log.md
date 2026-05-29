@@ -1,5 +1,8 @@
 # Ingest Log
 
+## [2026-05-30] ingest | Felix Friends — This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom
+## [2026-05-30] ingest | Tyler Hill Stocks — SOFI INVESTORS - IT'S HAPPENING, DO THIS NOW!!
+
 ## [2026-05-30] re-ingest | ZipTrader — This $5 Stock Has CRAZY Potential (CORRECTED: prior raw file had wrong video content; reprocessed with /watch — actual video covers UMAC/AVAV/KTOS drone pattern, RDW +193% / MNTS +152% space update, CRM record earnings, BBAI as main $5 pick with $58 2031 bull case)
 ## [2026-05-30] re-ingest | Tyler Hill Stocks — NVIDIA, MICRON, AMD - THE SIGNALS ARE SCREAMING AT US (enriched with frame-confirmed price levels)
 ## [2026-05-30] re-ingest | Wallstreet Trapper — Trump Just Told Us Where Money Is Moving Next (enriched with frame-confirmed ETF holdings and CQTM price)
