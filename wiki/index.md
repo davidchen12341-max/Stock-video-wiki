@@ -24,5 +24,5 @@ last_updated: 2026-05-29
 | 2026-05-27 | Felix Friends | Leaked: Trump's $100 BILLION Defense Stock | NOW, SNDK |
 | 2026-05-28 | Tyler Hill Stocks | NVIDIA, MICRON, AMD - THE SIGNALS ARE SCREAMING AT US | NVDA, MU, AMD, SPY |
 | 2026-05-27 | Tyler Hill Stocks | MICRON STOCK — IT IS OFFICIALLY HAPPENING | MU |
-| 2026-05-28 | Wallstreet Trapper | Trump Just Told Us Where Money Is Moving Next | QTUM, CQTM, INTC, MU, NOK, AMD, RGTI, DWAV |
+| 2026-05-28 | Wallstreet Trapper | Trump Just Told Us Where Money Is Moving Next | QTUM, CQTM, INTC, MU, NOK, AMD, ARM, RGTI, IONQ, DWAV, IBM, MSFT |
 | 2026-05-29 | ZipTrader | This $5 Stock Has CRAZY Potential | UMAC, AVAV, KTOS, RDW, MNTS, CRM, BBAI |
