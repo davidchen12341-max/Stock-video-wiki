@@ -48,15 +48,21 @@ def fetch_rss(channel_id):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
     r = subprocess.run([
         "curl", "-sL", "--max-time", "15",
-        "-H", "User-Agent: Mozilla/5.0 (compatible; RSS reader/1.0)",
+        "-H", "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+        "-H", "Accept: application/atom+xml,application/xml,text/xml,*/*",
         url
     ], capture_output=True, text=True)
-    if r.returncode != 0 or not r.stdout.strip():
-        print(f"  curl exit={r.returncode} stderr={r.stderr.strip()[:120]}")
+    if r.returncode != 0:
+        print(f"  curl failed: exit={r.returncode} stderr={r.stderr.strip()[:200]}")
         return []
+    if not r.stdout.strip():
+        print(f"  curl returned empty response (possible IP block)")
+        return []
+    print(f"  curl ok, response length={len(r.stdout)} bytes")
     try:
         root = ET.fromstring(r.stdout)
-    except ET.ParseError:
+    except ET.ParseError as e:
+        print(f"  XML parse failed: {e} — first 200 chars: {r.stdout[:200]!r}")
         return []
 
     entries = []
