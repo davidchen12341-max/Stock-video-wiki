@@ -26,3 +26,5 @@ last_updated: 2026-05-29
 | 2026-05-27 | Tyler Hill Stocks | MICRON STOCK — IT IS OFFICIALLY HAPPENING | MU |
 | 2026-05-28 | Wallstreet Trapper | Trump Just Told Us Where Money Is Moving Next | QTUM, CQTM, INTC, MU, NOK, AMD, ARM, RGTI, IONQ, DWAV, IBM, MSFT |
 | 2026-05-29 | ZipTrader | This $5 Stock Has CRAZY Potential | UMAC, AVAV, KTOS, RDW, MNTS, CRM, BBAI |
+| 2026-05-29 | Felix Friends | This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom | NNE, OKLO, SMR, VICR, VRT |
+| 2026-05-29 | Tyler Hill Stocks | SOFI INVESTORS - IT'S HAPPENING, DO THIS NOW!! | SOFI |
