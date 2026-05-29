@@ -4,7 +4,7 @@ name: ZipTrader
 handle: "@ZipTrader"
 url: https://www.youtube.com/@ZipTrader
 tags: [channel]
-last_updated: 2026-05-27
+last_updated: 2026-05-29
 ---
 
 # ZipTrader
