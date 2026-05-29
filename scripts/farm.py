@@ -46,9 +46,13 @@ def slugify(text, max_len=50):
 
 def fetch_rss(channel_id):
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    r = subprocess.run(["curl", "-sL", "--max-time", "15", url],
-                       capture_output=True, text=True)
+    r = subprocess.run([
+        "curl", "-sL", "--max-time", "15",
+        "-H", "User-Agent: Mozilla/5.0 (compatible; RSS reader/1.0)",
+        url
+    ], capture_output=True, text=True)
     if r.returncode != 0 or not r.stdout.strip():
+        print(f"  curl exit={r.returncode} stderr={r.stderr.strip()[:120]}")
         return []
     try:
         root = ET.fromstring(r.stdout)
