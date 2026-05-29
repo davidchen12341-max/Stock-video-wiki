@@ -1,59 +1,109 @@
 ---
 source: farmer/youtube
-farmed: 2026-05-29T06:00:00Z
+farmed: 2026-05-28T09:00:00Z
 channel: Wallstreet Trapper
 channel_handle: "@WallstreetTrapper"
 video_id: i-gKRI6Uqy8
 url: https://www.youtube.com/watch?v=i-gKRI6Uqy8
 published: 2026-05-28
+duration: "11:23"
+tickers: [QTUM, CQTM, INTC, MU, NOK, AMD, ARM, STM, ON, TSEM, RGTI, DWAV, IONQ, IBM, MSFT]
 has_transcript: true
 ---
 
 # Trump Just Told Us Where Money Is Moving Next
 
-## Description
+## Metadata
+- **Source:** YouTube auto-captions + frame extraction (8 frames)
+- **Context:** Trump publicly said the word "quantum" in a recent speech (visible in frame 1: Trump at presidential podium, Trapper reacting). Trapper treats a presidential mention as the government validation signal that precedes institutional capital flows — the same pattern he saw with AI and semiconductors.
 
-Most people think they missed the AI boom because they missed Nvidia — but the next technology wave may already be forming in quantum computing. In this video, I break down why Wall Street, the government, AI infrastructure, and quantum computing ETFs could be pointing toward the next major investing opportunity before the crowd fully understands it.
+## Summary
+Quantum computing is the next major investment wave and the setup is now: Trump's public endorsement signals government validation, ETFs are already positioning, and most of the public still doesn't understand what quantum computing is. Trapper walks through three ETFs as the safest way to gain early exposure — ranging from infrastructure/ecosystem to pure-play to national security/cybersecurity — without needing to pick the single winning company.
 
-My goal is to help you see why quantum computing matters, why government funding can validate an entire sector, and how investors can study the space without trying to guess the one perfect winner. I'm breaking down how quantum computing connects to AI, cybersecurity, semiconductors, memory, defense, advanced computing, national security, and the future of infrastructure.
+## The Core Thesis
 
-We also look at three quantum-related ETFs, including QTUM, a more aggressive pure-compute quantum ETF, and CQTM, along with companies tied to the space like Intel, Micron, Nokia, AMD, Global Unichip, Rigetti, D-Wave, and other quantum infrastructure names. This is not about chasing hype — this is about understanding where money may flow next as Wall Street positions before the public catches on.
+- **Pattern Trapper is calling:** Government funds → Wall Street validates → ETFs load up → public catches on late. Quantum is entering the "government validation" phase now, the same phase AI (semiconductors) and defensive tech went through.
+- **The signal:** Trump said "quantum" in a public speech. "When the president said it, he solidified it. Billions will keep flowing into the space the same way money flooded into AI."
+- **Why quantum matters:** Traditional computers hit limits (power, heat, processing). Quantum solves problems classical systems can't — drug discovery, military simulation, cybersecurity, financial models, encryption. This is not just a tech race; it's a national security race.
+- **Key insight:** "Government money validates the importance." Once governments back a sector, institutions treat it differently and ETFs become the first capital vehicle.
 
-Disclaimer: This video is for education and entertainment purposes only. Nothing I say is financial, investing, trading, tax, or legal advice. Always do your own research and speak with a licensed professional before making financial decisions.
+## ETF #1 — QTUM (Defiance Quantum ETF): Own the Ecosystem
 
-CHAPTERS
-00:00 — Most People Think They Missed AI
-00:15 — Wall Street May Already Be Moving to the Next Wave
-00:30 — Why Quantum Computing Is Now in the Spotlight
-01:02 — ETFs, Big Banks, and Early Positioning
-01:25 — Why Quantum Matters Before the Crowd Gets It
-02:00 — Every Generation Has a Technology Race
-02:16 — Quantum Computing Explained Simply
-02:45 — Why Traditional Systems Hit Limits
-03:00 — Quantum, Cybersecurity, Defense, and AI
-03:18 — Why Government Funding Changes Everything
-03:56 — ETF #1: QTUM and the Quantum Infrastructure Stack
-04:40 — Intel's Role in Domestic Compute Leadership
-05:10 — Micron, Memory, and the Data Bottleneck
-05:43 — Why Nokia Shows Up in a Quantum ETF
-06:05 — AMD, Compute Power, and Advanced Processing
-06:31 — Global Unichip and Semiconductor Infrastructure
-06:47 — Why QTUM Is Betting on the Ecosystem
-07:08 — ETF #2: More Aggressive Pure Quantum Exposure
-07:32 — Owning the Frontier of What's Coming
-07:41 — Direct Quantum Names and Higher Volatility
-08:00 — Rigetti, D-Wave, and Optimization Systems
-08:59 — When Pure Plays Move the Hardest
-09:09 — ETF #3: CQTM and National Infrastructure
-09:34 — Cybersecurity, Encryption, and Government Systems
-10:00 — Why Most Investors Wait Too Long
-10:29 — The Real Question: Does the Quantum Space Grow?
-10:48 — AI's Next Layer: Compute, Infrastructure, and Quantum
-11:05 — Study the Shift Before Wall Street Makes the Move
+- **Strategy:** Infrastructure over pure science. Own the entire quantum stack — semiconductors, memory, networking, compute, communications.
+- **Composition (confirmed in frame — Defiance ETF website):** ~83% technology exposure
+- **Top 10 holdings (visible in frame):**
+  | Ticker | Company | Weight |
+  |--------|---------|--------|
+  | MU | Micron Technology | 2.96% |
+  | INTC | Intel Corp | 2.64% |
+  | 2454 TT | Mediatek Inc | 2.46% |
+  | STM | STMicroelectronics | 2.34% |
+  | NOK | Nokia Oyj | 2.30% |
+  | 3443 TT | Global Unichip Corp | 2.12% |
+  | ON | ON Semiconductor | 2.01% |
+  | TSEM | Tower Semiconductor | 1.99% |
+  | AMD | Advanced Micro Devices | 1.98% |
+  | ARM | Arm Holdings | 1.98% |
+- **Trapper's logic per holding:** INTC = domestic compute leadership + foundry. MU = memory as the data bottleneck solution. NOK = secure communications/networking. AMD = AI acceleration and advanced processing. Global Unichip = semiconductor infrastructure (picks & shovels).
+- **Core message:** "QTUM is not betting on one company. It's betting on the ecosystem behind quantum."
 
-Trappers Anonymous Group: https://join.trappersanonymous.com/ 
-Join our Exclusive Patreon!!! www.patreon.com/Wallstreetlookslikeusnow
+## ETF #2 — Pure-Play Quantum ETF: Own the Frontier
 
-## Transcript
+- **Strategy:** More aggressive. Direct quantum compute exposure — the companies that win or lose depending on quantum adoption.
+- **Top holdings (confirmed in frame — pie chart showing 39.4% in top 10):**
+  | Ticker | Company | Weight |
+  |--------|---------|--------|
+  | RGTI | Rigetti Computing | 6.49% |
+  | DWAV (D-Wave) | D-Wave Quantum | 6.31% |
+  | IONQ | IonQ Inc | 5.55% |
+  | QCI | Quantum Computing Inc | 3.28% |
+  | QMCO | Xanadu Quantum Tech | 3.19% |
+  | IBM | IBM Corp | 3.10% |
+  | — | Infleqtion Inc | 3.07% |
+  | INTC | Intel Corp | 2.88% |
+  | 6702 JP | Fujitsu Ltd | 2.80% |
+  | MSFT | Microsoft Corp | 2.74% |
+- **IonQ (IONQ):** "Most recognized pure quantum name — cloud integration potential, direct quantum exposure, future compute upside." More speculative.
+- **Rigetti (RGTI):** Superconducting quantum systems, smaller company, higher volatility. "If quantum race accelerates, these are the names institutions watch when positioning early."
+- **D-Wave (DWAV):** Optimization focus — supply chain, scheduling, routing. "When AI creates intelligence, quantum may help optimize real-world systems around it."
+- **Core message:** "This ETF says own the frontier of what's coming." Pure-plays move hardest if quantum adoption accelerates.
 
-Most people missed Nvidia. They think they missed AI and they watching the move now. They in their head. They thinking you can't make money in the market, but the money is not already made. Actually, the game is just not starting right now. And Wall Street may be already looking toward the next wave because one thing Wall Street often does is they get their money here, then they navigate to the next place under our nose. But we have a president in place right now that often tips off where Wall Street is going. And he said something in the last week. He said quantum. Now, of course, myself and some of the other people on YouTube have already been talking about it. But when the president said it, he solidified it. And billions will keep flowing into space the same way money flooded into AI. And some of these companies may never be this cheap again because once the government start backing technology in the way that they've been doing, Wall Street's taught building narratives around it. And once ETFs start loading up positions in the big banks, in the hedge funds, they usually start to move before the public truly understands. And so this is exactly why we cannot afford to miss the right now. And most people still don't even understand what quantum computing is, but money is already moving there. We know that. We see it. So, in this video, I'm going to break down why quantum matters, why governments suddenly care, and then I'm going give you three ETFs they're using to position themselves before the crowd gets started. Because the next technology wave may already be a starter. Make sure you like, subscribe, and share. But most importantly, y'all, help us get to 2,000 likes on this video. actually help us in the algorithm move up so we can keep putting out great information to help you all out. Comment below at the end to tell us which one of these ETFs that you looking at the most. Let's go. Every generation has this technology race and it changes the game, but we often be too late. Oil, the internet, smartphones, cloud, AI, and now quantum computing may be the next battlefield. That's right. Now let me simplify this for you because I feel like I can be talking but if you don't understand it is not going to get the point across. So traditional computers can only process one pad at a time. Quantum computing allows you to do multiple things at one time. Think about AI for a second. AI creates massive information, massive complexity, massive compute demand. And the smarter AI becomes the more advanced the computing the world will need. And then eventually traditional systems they hit limits. power limits, heat limits, processing limits. And that's where quantum enters the game because they're not trying to replace AI, but helping solve problems that traditional systems struggle with. Problems like drug discovery, military simulation, cyber security, financial models, optimization, encryption, and the list goes on. This is why governments care because this is not just a technology race. It's a national security race. Now, just let me dig a little deeper because I need you to understand the platform before I get into the three ETFs. Now, here's what most people miss. Like once government start funding technology, Wall Street start treating it differently because government money validates the importance. I'm going say that again. Government money validates the importance. It tells institutions this matters. And AI got validated. Semiconductors got validated. Defensive tech got validated. Now quantum may be entering the same phase and when money starts flowing into a sector and ETFs become one of the first places that capital moves because that becomes the safe investment. So let's break down the ETFs because this tells us how Wall Street is trying to position future. Now the first ETF is QTUM Defiance Quantum ETF. Again QTUM. Now this ETF is less about one specific company and more about owning the infrastructure behind advanced computing. Now it is about 83% technology exposure which means you're going to be exposed to tech because quantum computing still depends on semiconductors, memory, networking, compute systems and communication infrastructure which is why communications is the second biggest field. This is not just about betting on science or experiment. This is about betting on the entire stack. And let's tie these companies together so you can understand. So the first company of the top five is Intel. And Intel matters because quantum still needs hardware. And people think quantum is magic. It's not. And it still needs chips. It still needs fabrication. It still needs quantum compute infrastructure. Now Intel already kind of has deep government relationships, manufacturing exposure, advanced computing ambitions, and foundry infrastructure. And if America wants domestic compute leadership, which they do, Intel stays in the conversation. Now, next on the list is none other than Micron MU. And we just know that memory, well, we see what's going on here. And memory comes critical because AI and advanced systems move enormous amounts of data. And the more advanced computing gets, the more memory matters. So, we check that off the list. You think about AI data centers. without memory that's a bottleneck. So Micron becomes the part of the plumbing behind the compute race which is number two inside here. Number three inside of here is Nokia and I know this surprises a lot of people but quantum also affects networking and communications. So secure communications and telecom infrastructure and data movement and Nokia already operates inside of global communication systems. So quantum is not just about betting on quantum compute. It's betting on infrastructure, the infrastructure needed for the next generation. And then there's AMD and this is compute power. And so AI acceleration, data centers, advanced processing. If AI demand keeps exploding, then advanced processing stays critical. And Wall Street knows compute demand doesn't disappear just because quantum grows. Systems still need power. And then there's global unit chip. Now this one is specialized semiconductor infrastructure. Again, it's like the picks and shovels, right? And so this ETF is basically saying we don't need to know the exact winner yet. We just need to know the infrastructure matters. And so QTUM is not betting on one company. It's betting on the ecosystem behind Quantum. And that's important because technology revolves around creating layers. So it's no one thing. It's a stack. Now the second ETF gets more aggressive. This is where Wall Street start leaning more toward pure compute exposure. I say that again. pure compute exposure. So, this one has Rigetti, D-Wave, AMD, and Intel. You see some repeat offenders there. Now, this ETF tells a different story. QTUM says own the infrastructure. Well, this ETF says own the frontier. Say that again. This ETF says own the frontier of what's coming. So, you start off with IQ may be one of the most recognized pure quantum names in the game. Why? Well, because investors see it as direct quantum exposure, cloud integration potential, and future compute upside. This is more speculative, I'll be honest. But if quantum adoption accelerates, these names could move violently, which they already did. Then there's Rigetti, right? And this is even more of the frontier because they focus on superconducting quantum systems, right? Now it's a smaller company has higher volatility and higher risk. But again if quantum race accelerates then Wall Street starts chasing direct exposure and these are the kinds of names that institutions watch when positioning early. Then you have D-Wave which is interesting because they focus more on optimization — helping solve incredibly complex systems: supply chain scheduling, routing, and industrial optimization. So when AI creates intelligence, quantum may help optimize the real world systems around it. But that's where it gets bigger than just hype. And so the ETF that we talking about is better known possibility and quantum becomes commercially important. And if it does, the smaller pure plays move the hardest. And then you have CQTM ETF. Now this third ETF may be the most important psychologically because CQTM is built around building quantum, protecting quantum and defending quantum. And that changes the story a little bit because this is where we move from cold technology to national infrastructure. And I kind of want you to understand like how these play a role. You got cyber security, defense, encryption, secure communications, and government systems. Now, because quantum computing could eventually challenge traditional encryption, you got to think the government understands that. So, CQTM is not just betting on technology growth — it's betting on geopolitical importance. And this is why government angles matter because once nations care, money flows. And so that's kind of why I'm bringing you all these three ETFs because most investors wait and wait until technology feels obvious or they buy by then which is late and institutions already positioned and ETFs have already moved and narrative has already been built and the biggest money usually starts moving before the public fully understands the story. People laugh at cloud, people laugh at streaming, people laugh at crypto, people are laughing at AI right now. But those sectors and those instruments turn people into millionaires, multi-millionaires. So the question is will every quantum computing name win? The question is does the space itself grow? Because if the space grows, capital flows into the ecosystem. And so most people still think that AI race is only about software. But the next layer may become compute, infrastructure, quantum, cyber security, and advanced systems. And if billions of dollars continue to flow into space, this may only be the beginning. So the real question really is, will you study the shift while it's early or will you wait until Wall Street made the move? It's your boy Wall Street Trapper, man. Make sure you like, subscribe, and tell us in a comment. If you like this video, share it out with somebody that you love. Salute.
+## ETF #3 — CQTM (Corgi Quantum Computing ETF): National Infrastructure
+
+- **Current price (confirmed in frame):** $31.48, up $4.12 (+15.06%) year-to-date
+- **Strategy:** Cybersecurity, encryption, secure communications, government systems. The geopolitical play.
+- **Why it's different:** Quantum computing threatens traditional encryption. Governments know this. "CQTM is not just betting on technology growth — it's betting on geopolitical importance."
+- **Once nations care, money flows regardless of commercial timeline.**
+
+## Trapper's Framework
+
+1. Every generation has a technology race (oil → internet → smartphones → cloud → AI → quantum)
+2. Most investors are always late — they wait until technology feels "obvious"
+3. By then: institutions positioned, ETFs moved, narrative built, biggest money already made
+4. The question isn't "will every quantum name win?" — it's "does the space itself grow?"
+5. ETF-first approach: don't pick the winner, own the ecosystem that benefits regardless of who wins
+
+## Tickers Mentioned
+
+- **QTUM** — Defiance Quantum ETF, ecosystem approach
+- **CQTM** — Corgi Quantum Computing ETF, national security/cybersecurity angle, $31.48 (+15% YTD)
+- **INTC** — Intel (QTUM + pure-play: domestic compute + foundry)
+- **MU** — Micron (QTUM: memory for quantum compute bottleneck)
+- **NOK** — Nokia (QTUM: quantum-ready networking infrastructure)
+- **AMD** — AMD (QTUM: compute power and AI acceleration)
+- **ARM** — Arm Holdings (QTUM: semiconductor IP)
+- **STM** — STMicroelectronics (QTUM)
+- **ON** — ON Semiconductor (QTUM)
+- **TSEM** — Tower Semiconductor (QTUM)
+- **RGTI** — Rigetti Computing (pure-play: superconducting quantum systems)
+- **DWAV** — D-Wave Quantum (pure-play: optimization systems)
+- **IONQ** — IonQ (pure-play: "most recognized pure quantum name")
+- **IBM** — IBM (pure-play: deep quantum research track record)
+- **MSFT** — Microsoft (pure-play: quantum computing investments)
+
+## Notable Calls
+
+- "Government money validates the importance" — the signal that separates hype from institutional backing
+- ETF-first strategy: buy the basket before the crowd identifies the single winner
+- CQTM framed as the safest bet: government money flows here regardless of whether any quantum company achieves commercial success, because encryption defense is a geopolitical necessity
+- "The real question is: will you study the shift while it's early, or will you wait until Wall Street made the move?"
