@@ -16,4 +16,6 @@ last_updated: 2026-05-29
 **Notable videos**
 - [[channels/zip-trader/videos/2026-05-27-this-1-stock-just-got-massive-trump-backing|2026-05-27 — This 1 Stock Just Got MASSIVE Trump Backing]] — CHIPS Act quantum picks, INFQ deep dive with 5-catalyst playbook
 
-**Last video:** 2026-05-27
+- [[channels/zip-trader/videos/2026-05-29-this-5-stock-has-crazy-potential|2026-05-29 — This $5 Stock Has CRAZY Potential]] — SpaceX/drone stocks (MNTS, RDW) into June 12 IPO, ABSI deep value AI drug play, AMSS asymmetric bet
+
+**Last video:** 2026-05-29
