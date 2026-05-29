@@ -19,4 +19,6 @@ last_updated: 2026-05-28
 **Notable videos**
 - [[channels/wallstreet-trapper/videos/2026-05-27-the-risk-worth-taking-episode-195|2026-05-27 — The Risk Worth Taking (Ep. 195)]] — SpaceX IPO bearish take, ASTS+RKLB flagged as next space entries, memory sector thesis confirmed
 
-**Last video:** 2026-05-27
+- [[channels/wallstreet-trapper/videos/2026-05-28-trump-just-told-us-where-money-is-moving-next|2026-05-28 — Trump Just Told Us Where Money Is Moving Next]] — Quantum computing ETF breakdown (QTUM, CQTM), government validation thesis, RGTI/DWAV pure plays
+
+**Last video:** 2026-05-28
