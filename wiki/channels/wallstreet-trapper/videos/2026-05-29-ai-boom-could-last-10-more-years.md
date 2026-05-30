@@ -20,7 +20,7 @@ tags: [wallstreet-trapper, AMZN, NVDA, GOOGL, MSFT, META, TSM, AAPL, AVGO, MU, V
 **Tickers mentioned:** AMZN, NVDA, GOOGL, MSFT, META, TSM, AAPL, AVGO, MU, V, AMD, SATS, MA, UBER, VRT, SNDK, RVMD, ASML, COF, AMAT, PLTR
 
 **Notable calls:**
-- S&P 500 at 7,519.12 (+9.63% YTD, +$10T market cap since March 30, 2026) at time of recording
+- S&P 500 at **7,519.12** (+660.65, +9.63% YTD, +$10T since March 30) — frame-confirmed from thumbnail overlay
 - SNDK +462% YTD — highest return on entire hedge fund most-loved list
 - MU +139% YTD — still on hedge fund list, Trapper repeatedly flagged
 - Chips = largest S&P sector (~15% weight) — portfolio should concentrate here
