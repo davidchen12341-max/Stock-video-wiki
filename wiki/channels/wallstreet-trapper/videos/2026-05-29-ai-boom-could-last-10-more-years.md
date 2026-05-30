@@ -24,5 +24,7 @@ tags: [wallstreet-trapper, AMZN, NVDA, GOOGL, MSFT, META, TSM, AAPL, AVGO, MU, V
 - SNDK +462% YTD — highest return on entire hedge fund most-loved list
 - MU +139% YTD — still on hedge fund list, Trapper repeatedly flagged
 - Chips = largest S&P sector (~15% weight) — portfolio should concentrate here
-- PLTR ~147x P/E: hold but don't add at current valuation
+- PLTR ~147x P/E: hold but don't add — market "having a hard time" with the multiple
+- COF (frame-confirmed): 24 funds holding, 22% HF market cap concentration, +65% YTD
+- 2026 S&P leaders (frame-confirmed): NVDA, Google, Apple, MSFT, AMZN, AVGO, TSLA
 - Baby boomer wealth transfer beginning — secondary bullish tailwind
