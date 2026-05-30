@@ -21,4 +21,8 @@ last_updated: 2026-05-30
 
 - [[channels/wallstreet-trapper/videos/2026-05-28-trump-just-told-us-where-money-is-moving-next|2026-05-28 — Trump Just Told Us Where Money Is Moving Next]] — Quantum computing ETF breakdown (QTUM, CQTM), government validation thesis, RGTI/DWAV pure plays
 
-**Last video:** 2026-05-28
+- [[channels/wallstreet-trapper/videos/2026-05-29-ai-boom-could-last-10-more-years|2026-05-29 — AI Boom Could Last 10 More Years]] — Hedge fund most-loved list (20 names), AI supercycle 10-year thesis, chips = #1 S&P sector, SNDK +462% / MU +139% YTD standouts
+
+- [[channels/wallstreet-trapper/videos/2026-05-28-401k-mistake-could-wreck-your-wealth-plan|2026-05-28 — 401(k) Mistake Could Wreck Your Wealth Plan]] — Q&A: never use 401k for options, GOOGL preferred over MSFT for new money, NOW/CRM face harder AI headwinds than MSFT
+
+**Last video:** 2026-05-29
