@@ -1,5 +1,8 @@
 # Ingest Log
 
+## [2026-05-30] ingest | Wallstreet Trapper — Wallstreet Trapper Says This AI Boom Could Last 10 More Years
+## [2026-05-30] ingest | Wallstreet Trapper — 401(k) Mistake Could Wreck Your Wealth Plan
+
 ## [2026-05-30] ingest | Felix Friends — This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom
 ## [2026-05-30] ingest | Tyler Hill Stocks — SOFI INVESTORS - IT'S HAPPENING, DO THIS NOW!!
 
