@@ -28,3 +28,5 @@ last_updated: 2026-05-30
 | 2026-05-29 | ZipTrader | This $5 Stock Has CRAZY Potential | UMAC, AVAV, KTOS, RDW, MNTS, CRM, BBAI |
 | 2026-05-29 | Felix Friends | This is Bigger Than Palantir & Nvidia. These 5 Stocks Win the Next AI Boom | NNE, OKLO, SMR, VICR, VRT |
 | 2026-05-29 | Tyler Hill Stocks | SOFI INVESTORS - IT'S HAPPENING, DO THIS NOW!! | SOFI |
+| 2026-05-29 | Wallstreet Trapper | Wallstreet Trapper Says This AI Boom Could Last 10 More Years | AMZN, NVDA, GOOGL, MSFT, MU, AMD, VRT, SNDK, PLTR, TSM, AVGO |
+| 2026-05-28 | Wallstreet Trapper | 401(k) Mistake Could Wreck Your Wealth Plan | MSFT, GOOGL, NOW, CRM |
