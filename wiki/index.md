@@ -30,3 +30,7 @@ last_updated: 2026-05-30
 | 2026-05-29 | Tyler Hill Stocks | SOFI INVESTORS - IT'S HAPPENING, DO THIS NOW!! | SOFI |
 | 2026-05-29 | Wallstreet Trapper | Wallstreet Trapper Says This AI Boom Could Last 10 More Years | AMZN, NVDA, GOOGL, MSFT, MU, AMD, VRT, SNDK, PLTR, TSM, AVGO |
 | 2026-05-28 | Wallstreet Trapper | 401(k) Mistake Could Wreck Your Wealth Plan | MSFT, GOOGL, NOW, CRM |
+| 2026-05-30 | Nolan Gouveia | CAUTION: The Quiet Tax — The New Fed Is About To Charge Everyone | VOO, VTI, SCHD, VYM, QQQM |
+| 2026-05-30 | Wallstreet Trapper | The SpaceX IPO Trap Nobody Is Talking About | TSLA, NVDA, PLTR, UFO |
+| 2026-05-30 | Tyler Hill Stocks | This Stock Is EXPLODING — More Gains Next Week? | HOOD, SOFI, MA, VO |
+| 2026-05-31 | Felix Friends | How to Fix Bad Timing Once and For All | SOFI, COIN, PYPL, HOOD, PLTR, ZETA, ALEC, ARCT, RCUS, AUPH, ALAB, PLUG |
