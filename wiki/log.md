@@ -1,5 +1,10 @@
 # Ingest Log
 
+## [2026-05-31] ingest | Nolan Gouveia — CAUTION: The Quiet Tax — The New Fed Is About To Charge Everyone
+## [2026-05-31] ingest | Wallstreet Trapper — The SpaceX IPO Trap Nobody Is Talking About
+## [2026-05-31] ingest | Tyler Hill Stocks — This Stock Is EXPLODING — More Gains Next Week?
+## [2026-05-31] ingest | Felix Friends — How to Fix Bad Timing Once and For All
+
 ## [2026-05-30] ingest | Wallstreet Trapper — Wallstreet Trapper Says This AI Boom Could Last 10 More Years
 ## [2026-05-30] ingest | Wallstreet Trapper — 401(k) Mistake Could Wreck Your Wealth Plan
 
