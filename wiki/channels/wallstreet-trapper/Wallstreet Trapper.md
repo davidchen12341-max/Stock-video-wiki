@@ -25,4 +25,6 @@ last_updated: 2026-05-30
 
 - [[channels/wallstreet-trapper/videos/2026-05-28-401k-mistake-could-wreck-your-wealth-plan|2026-05-28 — 401(k) Mistake Could Wreck Your Wealth Plan]] — Q&A: never use 401k for options, GOOGL preferred over MSFT for new money, NOW/CRM face harder AI headwinds than MSFT
 
-**Last video:** 2026-05-29
+- [[channels/wallstreet-trapper/videos/2026-05-30-spacex-ipo-trap|2026-05-30 — The SpaceX IPO Trap Nobody Is Talking About]] — SpaceX at $1.75–2T / $18B revenue = ~100x multiple; skip IPO, buy space ETFs (UFO/NASA/MARS); potential TSLA+SpaceX merger thesis
+
+**Last video:** 2026-05-30
