@@ -27,4 +27,8 @@ last_updated: 2026-06-01
 
 - [[channels/wallstreet-trapper/videos/2026-05-30-spacex-ipo-trap|2026-05-30 — The SpaceX IPO Trap Nobody Is Talking About]] — SpaceX at $1.75–2T / $18B revenue = ~100x multiple; skip IPO, buy space ETFs (UFO/NASA/MARS); potential TSLA+SpaceX merger thesis
 
-**Last video:** 2026-05-30
+- [[channels/wallstreet-trapper/videos/2026-05-31-ai-money-rush-bigger-than-nvidia|2026-05-31 — The AI Money Rush Is Bigger Than Nvidia]] — Memory/storage bottleneck thesis: MU, STX, WDC have "2–3 more years"; data center capex $630B in 2026; consumer confidence low = historically bullish; RSP at all-time highs; SpaceX-Tesla merger speculation
+
+- [[channels/wallstreet-trapper/videos/2026-06-01-most-powerful-message-yet|2026-06-01 — Wallstreet Trapper's Most Powerful Message Yet]] — Pure motivational episode; FEAR = "Finally Exiting Average Reality"; skydiving Dubai metaphor for risk-taking; no stock picks
+
+**Last video:** 2026-06-01
