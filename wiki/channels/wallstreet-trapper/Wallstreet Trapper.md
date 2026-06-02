@@ -5,7 +5,7 @@ handle: "@WallstreetTrapper"
 url: https://www.youtube.com/@WallstreetTrapper/videos
 podcast_channel: https://www.youtube.com/@wallstreetlookslikeusnow/videos
 tags: [channel]
-last_updated: 2026-05-30
+last_updated: 2026-06-01
 ---
 
 # Wallstreet Trapper
