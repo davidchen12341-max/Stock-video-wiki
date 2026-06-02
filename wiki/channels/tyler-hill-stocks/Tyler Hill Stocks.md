@@ -20,4 +20,12 @@ last_updated: 2026-06-02
 
 - [[channels/tyler-hill-stocks/videos/2026-05-30-hood-exploding-more-gains|2026-05-30 — This Stock Is EXPLODING — More Gains Next Week?]] — HOOD +36.88% from $70 entry; ascending wedge at $94.35; danger zone $96–$100; breakout target $143, breakdown target $60–$65 (60% probability)
 
-**Last video:** 2026-05-30
+- [[channels/tyler-hill-stocks/videos/2026-05-31-stock-investors-get-ready-for-a-wild-week|2026-05-31 — Stock Investors Get Ready For A WILD Week]] — Sunday prep: NFP + unemployment rate Friday are the key Fed catalysts; charts for NVDA/MU/AMD/SOFI/HOOD; Tyler deploying $10K + $3–5K more
+
+- [[channels/tyler-hill-stocks/videos/2026-06-01-dell-stock-flashed-extremely-rare-signal|2026-06-01 — Dell Stock Just Flashed An EXTREMELY Rare Signal]] — DELL weekly RSI hit 90 (never happened before in history); +308% YTD from $110 to $448; $9.7B DoD deal + Trump backing; caution signal for new entries
+
+- [[channels/tyler-hill-stocks/videos/2026-06-01-stock-market-signals-flashing-everywhere|2026-06-01 — STOCK MARKET SIGNALS FLASHING EVERYWHERE]] — Live stream: NVDA Vera CPU + MU +5% + MSFT $450; NFP week preview; Tyler deploying capital
+
+- [[channels/tyler-hill-stocks/videos/2026-06-02-nvidia-just-changed-the-future|2026-06-02 — Nvidia Just Changed The Future Of The Stock Market]] — Vera CPU for agentic AI: $20B CFO guidance, $200B+ new TAM; customers include Anthropic/OpenAI/SpaceX/NYSE; Tyler's hot take: agentic AI revenue will exceed GPU revenue long-term
+
+**Last video:** 2026-06-02
