@@ -11,7 +11,7 @@ last_updated: 2026-06-02
 
 **Style:** Data-driven, institutional-style analysis. Tracks congressional insider trading, follows smart money flows, and uses the Winston Stock App framework to evaluate stocks. Former investment banker and corporate lawyer. Longer-form, structured deep dives.
 
-**Frequent tickers:** NOW, SNDK, defense/congressional plays; NNE, OKLO, SMR, VICR, VRT (nuclear AI power stack); uses 3-step framework: Bottleneck → Value Chain → Timing
+**Frequent tickers:** NOW, SNDK, defense/congressional plays; NNE, OKLO, SMR, VICR, VRT (nuclear AI power stack); RGTI, QBTS, IONQ (quantum); CMPS, CMP, BBAI (hard assets/mental health/defense AI); BETT (eVTOL); ORCL, DT, TENB (AI infrastructure/cybersecurity); TXG (spatial biology); VOYG, RDW, FFAI (space small-caps). Uses 3-step framework: Bottleneck → Value Chain → Timing + Winston App scoring. Tracks congressional insider trading (Trump, Ro Khanna). Felix personally bought TENB at ~$23 (Jun 2026).
 
 **Notable videos**
 - [[channels/felix-friends/videos/2026-05-27-leaked-trumps-100-billion-defense-stock|2026-05-27 — Leaked: Trump's $100 BILLION Defense Stock]] — NOW deep dive: 6 bipartisan politicians + CEO + Trump all buying; SaaS Apocalypse bear case dismantled
