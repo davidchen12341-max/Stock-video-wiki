@@ -1,5 +1,17 @@
 # Ingest Log
 
+## [2026-06-03] ingest | ZipTrader — This 1 Stock Can Change (EARLY BUYERS) Lives (HIMS, FLNC, NOW)
+## [2026-06-03] ingest | ZipTrader — 3 Stocks To BUY NOW For June 2026 (NOW, ZETA, FLNC)
+## [2026-06-03] ingest | Wallstreet Trapper — The AI Money Rush Is Bigger Than Nvidia (MU, STX, WDC)
+## [2026-06-03] ingest | Wallstreet Trapper — Wallstreet Trapper's Most Powerful Message Yet (motivational)
+## [2026-06-03] ingest | Tyler Hill Stocks — Nvidia Just Changed The Future Of The Stock Market (NVDA Vera CPU, $20B, $200B TAM)
+## [2026-06-03] ingest | Tyler Hill Stocks — Dell Stock Just Flashed An EXTREMELY Rare Signal (DELL RSI 90)
+## [2026-06-03] ingest | Tyler Hill Stocks — STOCK MARKET SIGNALS FLASHING EVERYWHERE (live stream, NVDA/MU/AMD/SOFI/HOOD)
+## [2026-06-03] ingest | Tyler Hill Stocks — Stock Investors Get Ready For A WILD Week (Sunday prep, NFP week)
+## [2026-06-03] ingest | Felix Friends — Leaked: Last EASY Wealth Opportunity in 2026 (BETT/RGTI/ORCL/DT/TENB/TXG; Felix bought TENB at ~$23)
+## [2026-06-03] ingest | Felix Friends — The Only SpaceX IPO Video Investors Need to Watch ($28.5T TAM, Nasdaq rule change structural squeeze)
+## [2026-06-03] ingest | Felix Friends — A 10 Bagger Like These Stocks May Never Happen Again (RGTI/QBTS/IONQ/CMPS/CMP/BBAI)
+
 ## [2026-05-31] ingest | Nolan Gouveia — CAUTION: The Quiet Tax — The New Fed Is About To Charge Everyone
 ## [2026-05-31] ingest | Wallstreet Trapper — The SpaceX IPO Trap Nobody Is Talking About
 ## [2026-05-31] ingest | Tyler Hill Stocks — This Stock Is EXPLODING — More Gains Next Week?
