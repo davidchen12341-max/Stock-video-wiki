@@ -11,7 +11,7 @@ last_updated: 2026-06-02
 
 **Style:** Short, direct stock-specific videos. Focuses on individual stock analysis, earnings plays, and technical breakouts. Typically single-ticker deep dives with a "here's what I called and what comes next" format.
 
-**Frequent tickers:** MU, AMD, NVDA, SPY (semiconductor/AI focus + macro), SOFI. Uses Fibonacci golden zone analysis, extension zones, RSI divergence, and double bottom structures as primary technical tools.
+**Frequent tickers:** MU, AMD, NVDA, SPY (semiconductor/AI focus + macro), SOFI, HOOD, DELL. Uses Fibonacci golden zone analysis, extension zones, RSI divergence, and double bottom structures as primary technical tools. Also deploys capital personally on stream — watch for personal trade disclosures.
 
 **Notable videos**
 - [[channels/tyler-hill-stocks/videos/2026-05-27-micron-stock-it-is-officially-happening|2026-05-27 — MICRON STOCK — IT IS OFFICIALLY HAPPENING]] — MU golden zone breakout confirmed (+20% in a day); post-breakout analysis, RSI divergence warning, pullback expected
