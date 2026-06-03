@@ -1,22 +1,51 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "path:wiki",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "file:wiki",
+      "color": {
+        "a": 1,
+        "rgb": 3381759
+      }
+    },
+    {
+      "query": "file:channels OR file:index OR file:log",
+      "color": {
+        "a": 1,
+        "rgb": 5622903
+      }
+    },
+    {
+      "query": "path:wiki/channels -path:videos -file:channels",
+      "color": {
+        "a": 1,
+        "rgb": 16742195
+      }
+    },
+    {
+      "query": "path:videos",
+      "color": {
+        "a": 1,
+        "rgb": 16763972
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.3,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.494487847222222,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.1539789109735912,
+  "centerStrength": 0.5,
+  "repelStrength": 16.2795138888889,
+  "linkStrength": 0.728428819444445,
+  "linkDistance": 180,
+  "scale": 0.8980446237949963,
   "close": true
 }

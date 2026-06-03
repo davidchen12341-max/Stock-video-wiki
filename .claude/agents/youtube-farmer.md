@@ -29,9 +29,9 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
    RSS feed pattern: `https://www.youtube.com/feeds/videos.xml?channel_id=<CHANNEL_ID>`
 
 3. **Determine the window.**
-   - **Default (normal run):** Find the most recent file in `raw/youtube/` with `ls -t raw/youtube/*.md 2>/dev/null | head -1` and parse the date from the filename (first 10 chars). Use that date as the floor. If `raw/youtube/` is empty, fall back to 24 hours ago.
+   - **Default (normal run):** Find the most recent file in `raw/youtube/` with `ls -t raw/youtube/*.md 2>/dev/null | head -1` and parse the date from the filename (first 10 chars). **Subtract 1 day** from that date to use as the floor (this is a safety buffer — videos uploaded to YouTube later in the same day as a prior farm run would otherwise be missed). If `raw/youtube/` is empty, fall back to 7 days ago.
    - **Seed mode:** If the invoking prompt contains `SEED:` followed by a window spec (e.g. `SEED: last 30 days`), parse it and use that date as the floor instead.
-   - **Dedup:** Never overwrite an existing file. Before writing, check if the target filename already exists.
+   - **Dedup:** Never overwrite an existing file. Before writing, check if the target filename already exists. The 1-day buffer means you will re-scan videos already farmed — the dedup check handles this safely.
 
 4. **Fetch and parse each channel's RSS feed** using curl (not urllib — macOS Python SSL certs may be broken). Use this pattern via Bash (replace `CHANNEL_ID` for each channel):
 
@@ -79,17 +79,37 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
 
    Video slug: title lowercased, non-alphanumeric replaced with hyphens, collapsed, max 50 chars.
 
-   **After writing the frontmatter + description, attempt to pull the auto-generated transcript via `yt-dlp`:**
-   ```bash
-   python3 -m yt_dlp \
-     --write-auto-subs --sub-lang en --skip-download \
-     --sub-format srv3 \
-     --output "/tmp/%(id)s.%(ext)s" \
-     "https://www.youtube.com/watch?v=<video_id>" 2>/dev/null
-   ```
-   Then parse `/tmp/<video_id>.en.srv3` with Python (xml.etree.ElementTree, iter `<p>` tags, join `<s>` text) into clean plain text. Append it to the raw file under a `## Transcript` heading. Clean up the /tmp file after. If yt-dlp fails or no transcript exists, skip silently — the description alone is still useful.
+   If a file with the same name already exists, skip it — it was already farmed.
 
-   File format:
+   **For each new video, use the `watch:watch` skill to produce a rich structured summary.** Call the Skill tool with:
+   - `skill: "watch:watch"`
+   - `args:` the video URL followed by this analysis prompt:
+
+   ```
+   https://www.youtube.com/watch?v=<video_id>
+
+   Analyze this <Channel Name> video and produce a structured raw file for a stock investing wiki. Format:
+
+   ## Metadata
+   - Source: YouTube auto-captions + frame extraction
+   - Channel: <Channel Name>
+   - Context: [why this video was made, what triggered it]
+
+   ## Summary
+   [One paragraph: the main argument or call]
+
+   ## [Section headers matching the video's actual content — e.g. "The Setup", "Key Analysis", "Stocks Covered", "ETFs Discussed", "What [Host] Is Doing", "Risk Warnings"]
+   [For each section: specific price levels, Fibonacci zones, tickers, targets, predictions — concrete numbers, not vague descriptions]
+
+   ## Tickers Mentioned
+   [All tickers with one-line note each]
+
+   ## Notable Calls
+   [Specific price targets, predictions, or strong opinions with numbers]
+   ```
+
+   Take the full output from `watch:watch` and write it as the raw file body, with this frontmatter:
+
    ```
    ---
    source: farmer/youtube
@@ -99,21 +119,13 @@ You farm new video metadata from YouTube RSS feeds into the `raw/youtube/` direc
    video_id: <video_id>
    url: https://www.youtube.com/watch?v=<video_id>
    published: <YYYY-MM-DD>
-   has_transcript: true   ← set to false if yt-dlp failed
+   duration: "<MM:SS>"
+   tickers: [<ALL TICKERS from watch output>]
+   has_transcript: true
    ---
-
-   # <Video Title>
-
-   ## Description
-
-   <description verbatim>
-
-   ## Transcript
-
-   <parsed plain-text transcript>
    ```
 
-   If a file with the same name already exists, skip it — it was already farmed.
+   **Do NOT write a raw `## Transcript` dump.** The wiki needs structured analysis, not a wall of text. The `watch:watch` skill handles downloading, frame extraction, and transcription internally — you just need to call it and write the output.
 
 9. **Commit and push.** Stage, commit, and push all new files:
    ```bash

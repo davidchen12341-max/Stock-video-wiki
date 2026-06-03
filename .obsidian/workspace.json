@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "5346a3c8506130ab",
+        "id": "5c451ff921aa6f01",
         "type": "tabs",
         "children": [
           {
-            "id": "117e6248ab5184fa",
+            "id": "94592828cb219204",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "raw/youtube/2026-05-29-zip-trader-this-5-stock-has-crazy-potential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-29-zip-trader-this-5-stock-has-crazy-potential"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/channels/tyler-hill-stocks/videos/2026-05-28-nvda-micron-amd-signals-screaming.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 2026-05-28-nvda-micron-amd-signals-screaming"
             }
           },
           {
@@ -176,42 +181,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "117e6248ab5184fa",
+  "active": "94592828cb219204",
   "lastOpenFiles": [
-    "wiki/channels/zip-trader/ZipTrader.md.tmp.61489.b7a15dc6395b",
-    "raw/youtube/2026-05-27-felix-friends-leaked-trumps-100-billion-defense-stock.md",
-    "wiki/channels/tyler-hill-stocks/index.md",
-    "wiki/channels/felix-friends/Felix Friends.md",
-    "wiki/channels/tyler-hill-stocks/Tyler Hill Stocks.md",
-    "wiki/channels/wallstreet-trapper/Wallstreet Trapper.md",
-    "wiki/channels/nolan-gouveia/Nolan Gouveia.md",
-    "wiki/channels/zip-trader/ZipTrader.md",
-    "wiki/channels/nolan-gouveia/index.md",
+    "raw/youtube/2026-05-30-nolan-gouveia-caution-quiet-tax-the-new-fed-is-about-to-charge-e.md",
+    "raw/youtube/2026-05-30-tyler-hill-stocks-this-stock-is-exploding-more-gains-next-week.md",
+    "raw/youtube/2026-05-30-wallstreet-trapper-the-spacex-ipo-trap-nobody-is-talking-about.md",
+    "raw/youtube/2026-05-31-felix-friends-how-to-fix-bad-timing-once-and-for-all.md",
+    "wiki/wiki.md",
     "wiki/index.md",
-    "references/farmer-template.md",
-    "references/farm-prompt.md",
-    "references/create-farmer.md",
-    "raw/youtube/2026-05-27-zip-trader-this-1-stock-just-got-massive-trump-backing.md",
-    "raw/youtube/2026-05-27-wallstreet-trapper-the-risk-worth-taking-episode-195.md",
-    "raw/youtube/2026-05-27-tyler-hill-stocks-micron-stock-it-is-officially-happening.md",
-    "wiki/channels/felix-friends/index.md",
-    "CLAUDE.md",
-    "wiki/channels/felix-friends/videos/2026-05-27-leaked-trumps-100-billion-defense-stock.md",
     "wiki/log.md",
+    "wiki/channels/wallstreet-trapper/videos/2026-05-30-spacex-ipo-trap.md",
+    "wiki/channels/felix-friends/videos/2026-05-31-how-to-fix-bad-timing.md",
+    "wiki/channels/tyler-hill-stocks/videos/2026-05-30-hood-exploding-more-gains.md",
+    "wiki/channels/nolan-gouveia/videos/2026-05-30-caution-quiet-tax-new-fed.md",
+    "wiki/channels/tyler-hill-stocks/videos/2026-05-28-nvda-micron-amd-signals-screaming.md",
+    "wiki/channels/tyler-hill-stocks/videos/2026-05-29-sofi-investors-its-happening-do-this-now.md",
     "wiki/channels/tyler-hill-stocks/videos/2026-05-27-micron-stock-it-is-officially-happening.md",
-    "wiki/channels/wallstreet-trapper/videos/2026-05-27-the-risk-worth-taking-episode-195.md",
-    "wiki/channels/zip-trader/videos/2026-05-27-this-1-stock-just-got-massive-trump-backing.md",
-    "wiki/channels/wallstreet-trapper/index.md",
-    "wiki/channels/zip-trader/index.md",
+    "wiki/channels/felix-friends/videos/2026-05-29-this-is-bigger-than-palantir-nvidia-5-stocks.md",
+    "wiki/channels/felix-friends/Felix Friends.md",
+    "references/scheduling.md",
+    "references/create-farmer.md",
+    "CLAUDE.md",
+    "raw/youtube/2026-05-28-wallstreet-trapper-401-k-mistake-could-wreck-your-wealth-pl.md",
+    "raw/youtube/2026-05-29-felix-friends-this-is-bigger-than-palantir-nvidia-5-stocks.md",
+    "2026-05-28.md",
+    "raw/youtube/2026-05-28-tyler-hill-stocks-nvidia-micron-amd-the-signals-are-screaming-at-us.md",
+    "raw/youtube/2026-05-28-wallstreet-trapper-trump-just-told-us-where-money-is-moving-next.md",
+    "raw/youtube/2026-05-29-tyler-hill-stocks-sofi-investors-its-happening-do-this-now.md",
+    "raw/youtube/2026-05-29-wallstreet-trapper-wallstreet-trapper-says-this-ai-boom-co.md",
+    "cron.log",
+    "scripts/farm.py",
+    "wiki/channels/zip-trader/ZipTrader.md.tmp.61489.b7a15dc6395b",
     "wiki/channels/zip-trader/videos",
     "wiki/channels/wallstreet-trapper/videos",
     "wiki/channels/tyler-hill-stocks/videos",
     "wiki/channels/nolan-gouveia/videos",
     "wiki/channels/felix-friends/videos",
     "wiki/channels/zip-trader",
-    "wiki/channels/wallstreet-trapper",
-    "wiki/channels/tyler-hill-stocks",
-    "wiki/channels/nolan-gouveia",
-    "wiki/channels/felix-friends"
+    "wiki/channels/wallstreet-trapper"
   ]
 }
