@@ -28,6 +28,14 @@ last_updated: 2026-06-02
 
 - [[channels/tyler-hill-stocks/videos/2026-06-02-nvidia-just-changed-the-future|2026-06-02 — Nvidia Just Changed The Future Of The Stock Market]] — Vera CPU for agentic AI: $20B CFO guidance, $200B+ new TAM; customers include Anthropic/OpenAI/SpaceX/NYSE; Tyler's hot take: agentic AI revenue will exceed GPU revenue long-term
 
+- [[channels/tyler-hill-stocks/videos/2026-06-08-this-is-the-moment-of-truth-for-sofi|2026-06-08 — This Is The Moment Of Truth For SoFi...]] — SOFI at decision point; follow-up to double bottom confirmation; $20.10 MLR level still the key battleground
+
+- [[channels/tyler-hill-stocks/videos/2026-06-09-the-stock-market-is-about-to-fall-into-absolute-chaos|2026-06-09 — The Stock Market Is About To Fall Into Absolute Chaos..]] — Pre-CPI setup; CPI data as week's pivotal catalyst; chart levels for standard watchlist; "My Plan" action section; companion to June 10 post-CPI video
+
 - [[channels/tyler-hill-stocks/videos/2026-06-10-stocks-dump-cpi-nvda-amd-micron-sofi|2026-06-10 — STOCKS DUMP AFTER HUGE NEWS RELEASES (NVDA, AMD, MICRON, SOFI)]] — Live stream: May CPI came in at/slightly above expectations (4.2% headline, 2.9% core); energy inflation Iran-driven and temporary; SPY buyer zone 725 holding; NVDA at $200 golden zone; MU earnings June 23; QQQ head-and-shoulders warning
 
-**Last video:** 2026-06-10
+- [[channels/tyler-hill-stocks/videos/2026-06-10-breaking-a-massive-ai-company-just-missed-earnings|2026-06-10 — Breaking: A Massive AI Company Just Missed Earnings (Bubble Popping?)]] — Unnamed AI company misses; Tyler addresses "bubble popping" bear case; likely contrarian/opportunity framing
+
+- [[channels/tyler-hill-stocks/videos/2026-06-11-spacex-is-about-to-change-the-stock-market-forever|2026-06-11 — SPACEX IS ABOUT TO CHANGE THE STOCK MARKET FOREVER.]] — Bullish on SpaceX market impact; contrasts with Trapper's bearish IPO valuation take this week
+
+**Last video:** 2026-06-11
