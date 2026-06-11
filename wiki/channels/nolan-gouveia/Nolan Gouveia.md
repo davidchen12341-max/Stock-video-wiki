@@ -4,7 +4,7 @@ name: Nolan Gouveia
 handle: "@NolanGouveia"
 url: https://www.youtube.com/@NolanGouveia
 tags: [channel]
-last_updated: 2026-05-31
+last_updated: 2026-06-09
 ---
 
 # Nolan Gouveia
