@@ -45,3 +45,4 @@ last_updated: 2026-06-11
 | 2026-06-02 | ZipTrader | This 1 Stock Can Change (EARLY BUYERS) Lives | HIMS, FLNC, NOW, SNOW, NVDA |
 | 2026-06-02 | Tyler Hill Stocks | Nvidia Just Changed The Future Of The Stock Market | NVDA, AMD, ORCL, CRWV, INTC |
 | 2026-06-02 | Felix Friends | Leaked: Last EASY Wealth Opportunity in 2026 | BETT, RGTI, ORCL, DT, TENB, TXG |
+| 2026-06-10 | Tyler Hill Stocks | STOCKS DUMP AFTER HUGE NEWS RELEASES (NVIDIA, AMD, MICRON, SOFI, AND MORE) | NVDA, AMD, MU, SOFI, HOOD, SPY, QQQ, SCHD, ORCL |
