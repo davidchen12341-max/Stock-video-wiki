@@ -72,7 +72,7 @@ def fetch_rss(channel_id):
         published_el = e.find("atom:published", NS)
         link_el      = e.find("atom:link", NS)
         desc_el      = e.find(".//media:description", NS)
-        if not all([title_el, video_id_el, published_el, link_el]):
+        if not all(x is not None for x in [title_el, video_id_el, published_el, link_el]):
             continue
         entries.append({
             "title":       title_el.text,
