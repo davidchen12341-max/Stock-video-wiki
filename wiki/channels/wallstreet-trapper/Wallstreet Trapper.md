@@ -31,4 +31,12 @@ last_updated: 2026-06-01
 
 - [[channels/wallstreet-trapper/videos/2026-06-01-most-powerful-message-yet|2026-06-01 — Wallstreet Trapper's Most Powerful Message Yet]] — Pure motivational episode; FEAR = "Finally Exiting Average Reality"; skydiving Dubai metaphor for risk-taking; no stock picks
 
-**Last video:** 2026-06-01
+- [[channels/wallstreet-trapper/videos/2026-06-08-stop-letting-fear-make-you-miss-life-changing-money|2026-06-08 — Stop Letting Fear Make You Miss Life-Changing Money]] — 17-min standalone: bull market is creating wealth NOW; prepare for victory; proximity to winners as preparation; bullish signal embedded
+
+- [[channels/wallstreet-trapper/videos/2026-06-08-im-not-buying-the-spacex-ipo|2026-06-08 — I'm NOT Buying The SpaceX IPO (Short)]] — Valuation math doesn't work at IPO price; repeats SpaceX IPO Trap bearish call; own ETFs or ASTS/RKLB instead
+
+- [[channels/wallstreet-trapper/videos/2026-06-09-smart-money-follows-the-bottleneck|2026-06-09 — The Smart Money Follows The Bottleneck (Short)]] — Memory/storage/power/AI infra = the bottleneck; follow the constraint to find the opportunity; reinforces MU/STX/WDC/VRT thesis
+
+- [[channels/wallstreet-trapper/videos/2026-06-10-stop-negotiating-with-poverty-episode-197|2026-06-10 — STOP NEGOTIATING WITH POVERTY (Ep. 197)]] — SpaceX still top of mind (bearish); CPI week as key portfolio event; Trump IRS audit ban commentary
+
+**Last video:** 2026-06-10
