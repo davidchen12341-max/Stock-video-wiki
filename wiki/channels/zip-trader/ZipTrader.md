@@ -22,4 +22,12 @@ last_updated: 2026-06-02
 
 - [[channels/zip-trader/videos/2026-06-02-this-1-stock-can-change-early-buyers-lives|2026-06-02 — This 1 Stock Can Change (EARLY BUYERS) Lives]] — HIMS deep dive: 2.6M subscribers, FY2025 $2.35B revenue (+59%), 5 catalysts (FDA peptide July, Q2 guidance $680–700M, international 10x, Wegovy deal, $1.72B short interest); also FLNC +50% on Siemens/NVDA deal, NOW BofA $130 PT
 
-**Last video:** 2026-06-02
+- [[channels/zip-trader/videos/2026-06-08-this-stock-looks-like-the-next-10-bagger|2026-06-08 — This Stock Looks Like The Next 10-Bagger]] — Market selloff dismissed as fear; MU and MRVL as setups; single mystery 10-bagger as main pick (no transcript)
+
+- [[channels/zip-trader/videos/2026-06-09-this-is-an-early-once-in-a-lifetime-opportunity|2026-06-09 — This Is An (EARLY) Once-In-A-Lifetime Opportunity]] — AI wave analogy (GOOGL/IBM/MSFT/AMZN/NVDA as prior waves); 5 early-stage picks as the next wave (no transcript)
+
+- [[channels/zip-trader/videos/2026-06-10-the-last-easy-wealth-opportunity-in-2026|2026-06-10 — The Last (EASY) Wealth Opportunity in 2026]] — 3 headwinds addressed, melt-up thesis as core call; "last easy entry of 2026" framing
+
+- [[channels/zip-trader/videos/2026-06-11-this-4-89-stock-has-explosive-potential|2026-06-11 — This $4.89 Stock Has EXPLOSIVE Potential]] — Sub-$5 small-cap main pick; multi-stock format (no transcript)
+
+**Last video:** 2026-06-11
