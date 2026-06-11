@@ -25,4 +25,8 @@ last_updated: 2026-06-02
 
 - [[channels/felix-friends/videos/2026-06-02-leaked-last-easy-wealth-opportunity-2026|2026-06-02 — Leaked: Last EASY Wealth Opportunity in 2026]] — 6 stocks via 3-filter framework: BETT (eVTOL), RGTI (quantum), ORCL ($500B backlog/$90B revenue), DT (AI monitoring), TENB (cyber — Felix bought at ~$23), TXG (spatial biology — Felix's secret favorite)
 
-**Last video:** 2026-06-02
+- [[channels/felix-friends/videos/2026-06-09-spacex-just-triggered-the-biggest-unwind-in-financial-history|2026-06-09 — SpaceX Just Triggered the Biggest Unwind in Financial History]] — Felix's most bearish macro video: SpaceX/OpenAI/Anthropic simultaneously raising $60–75B each + GOOGL $85B share print = $350B forced S&P selling; 490/500 S&P stocks contributed near nothing to 2025; rotation signal: basic materials
+
+- [[channels/felix-friends/videos/2026-06-11-the-17-stock-youll-wish-you-bought|2026-06-11 — The $17 Stock You'll Wish You Bought (Last Big Wealth Opportunity of the Decade)]] — ADPT deep dive: compressed-spring 10-bagger setup; only FDA-cleared MRD test; revenue +102%/+51%/+35%; <15% penetration of $6B market; profitability catalyst near; down 87% from peak; high-risk biotech
+
+**Last video:** 2026-06-11
