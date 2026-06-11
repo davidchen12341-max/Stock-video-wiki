@@ -28,4 +28,6 @@ last_updated: 2026-06-02
 
 - [[channels/tyler-hill-stocks/videos/2026-06-02-nvidia-just-changed-the-future|2026-06-02 — Nvidia Just Changed The Future Of The Stock Market]] — Vera CPU for agentic AI: $20B CFO guidance, $200B+ new TAM; customers include Anthropic/OpenAI/SpaceX/NYSE; Tyler's hot take: agentic AI revenue will exceed GPU revenue long-term
 
-**Last video:** 2026-06-02
+- [[channels/tyler-hill-stocks/videos/2026-06-10-stocks-dump-cpi-nvda-amd-micron-sofi|2026-06-10 — STOCKS DUMP AFTER HUGE NEWS RELEASES (NVDA, AMD, MICRON, SOFI)]] — Live stream: May CPI came in at/slightly above expectations (4.2% headline, 2.9% core); energy inflation Iran-driven and temporary; SPY buyer zone 725 holding; NVDA at $200 golden zone; MU earnings June 23; QQQ head-and-shoulders warning
+
+**Last video:** 2026-06-10
