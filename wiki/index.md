@@ -45,4 +45,23 @@ last_updated: 2026-06-11
 | 2026-06-02 | ZipTrader | This 1 Stock Can Change (EARLY BUYERS) Lives | HIMS, FLNC, NOW, SNOW, NVDA |
 | 2026-06-02 | Tyler Hill Stocks | Nvidia Just Changed The Future Of The Stock Market | NVDA, AMD, ORCL, CRWV, INTC |
 | 2026-06-02 | Felix Friends | Leaked: Last EASY Wealth Opportunity in 2026 | BETT, RGTI, ORCL, DT, TENB, TXG |
+| 2026-06-08 | ZipTrader | This Stock Looks Like The Next 10-Bagger | MU, MRVL |
+| 2026-06-08 | Wallstreet Trapper | Stop Letting Fear Make You Miss Life-Changing Money | (motivational — no tickers) |
+| 2026-06-08 | Wallstreet Trapper | The Trillion Dollar Race Has Already Started (Short) | (AI infra thesis — no tickers named) |
+| 2026-06-08 | Wallstreet Trapper | I'm NOT Buying The SpaceX IPO (Short) | (bearish SpaceX IPO) |
+| 2026-06-08 | Tyler Hill Stocks | This Is The Moment Of Truth For SoFi... | SOFI |
+| 2026-06-09 | ZipTrader | This Is An (EARLY) Once-In-A-Lifetime Opportunity | GOOGL, IBM, MSFT, AMZN, NVDA (historical context) |
+| 2026-06-09 | Nolan Gouveia | 5 Laws Of Dividend ETF Placement (SCHD, JEPI, JEPQ, SPYI) | SCHD, JEPI, JEPQ, SPYI, QQQI, VYMI |
+| 2026-06-09 | Wallstreet Trapper | I Own Apartment Complexes... And I'd Still Buy Stocks (Short) | (stocks vs. real estate) |
+| 2026-06-09 | Wallstreet Trapper | The Smart Money Follows The Bottleneck (Short) | (memory/storage/AI infra) |
+| 2026-06-09 | Tyler Hill Stocks | The Stock Market Is About To Fall Into Absolute Chaos.. | SPY |
+| 2026-06-09 | Felix Friends | SpaceX Just Triggered the Biggest Unwind in Financial History | GOOGL, META |
+| 2026-06-10 | ZipTrader | The Last (EASY) Wealth Opportunity in 2026 | (melt-up thesis — no tickers named) |
+| 2026-06-10 | Wallstreet Trapper | The Game Isn't Rigged (Short) | (mindset — no tickers) |
+| 2026-06-10 | Wallstreet Trapper | Your Emotions Are Why You're Losing Money (Short) | (trading psychology) |
+| 2026-06-10 | Wallstreet Trapper | STOP NEGOTIATING WITH POVERTY (Ep. 197) | (SpaceX IPO + CPI commentary) |
 | 2026-06-10 | Tyler Hill Stocks | STOCKS DUMP AFTER HUGE NEWS RELEASES (NVIDIA, AMD, MICRON, SOFI, AND MORE) | NVDA, AMD, MU, SOFI, HOOD, SPY, QQQ, SCHD, ORCL |
+| 2026-06-10 | Tyler Hill Stocks | Breaking: A Massive AI Company Just Missed Earnings (Bubble Popping?) | (AI earnings miss — company unnamed) |
+| 2026-06-11 | ZipTrader | This $4.89 Stock Has EXPLOSIVE Potential | (sub-$5 small-cap — no transcript) |
+| 2026-06-11 | Tyler Hill Stocks | SPACEX IS ABOUT TO CHANGE THE STOCK MARKET FOREVER. | (SpaceX bullish — no transcript) |
+| 2026-06-11 | Felix Friends | The $17 Stock You'll Wish You Bought | ADPT, GOOGL |
