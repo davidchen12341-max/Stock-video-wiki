@@ -1,5 +1,25 @@
 # Ingest Log
 
+## [2026-06-11] ingest | ZipTrader — This $4.89 Stock Has EXPLOSIVE Potential
+## [2026-06-11] ingest | Tyler Hill Stocks — SPACEX IS ABOUT TO CHANGE THE STOCK MARKET FOREVER.
+## [2026-06-11] ingest | Felix Friends — The $17 Stock You'll Wish You Bought (Last Big Wealth Opportunity of the Decade)
+## [2026-06-10] ingest | ZipTrader — The Last (EASY) Wealth Opportunity in 2026
+## [2026-06-10] ingest | Wallstreet Trapper — The Game Isn't Rigged. You Just Don't Know The Rules. (Short)
+## [2026-06-10] ingest | Wallstreet Trapper — Your Emotions Are Why You're Losing Money (Short)
+## [2026-06-10] ingest | Wallstreet Trapper — STOP NEGOTIATING WITH POVERTY (Episode 197) Trappin Tuesdays
+## [2026-06-10] ingest | Tyler Hill Stocks — Breaking: A Massive AI Company Just Missed Earnings (Bubble Popping?)
+## [2026-06-09] ingest | ZipTrader — This Is An (EARLY) Once-In-A-Lifetime Opportunity
+## [2026-06-09] ingest | Nolan Gouveia — 5 Laws Of Dividend ETF Placement (SCHD, JEPI, JEPQ, SPYI)
+## [2026-06-09] ingest | Wallstreet Trapper — I Own Apartment Complexes... And I'd Still Buy Stocks (Short)
+## [2026-06-09] ingest | Wallstreet Trapper — The Smart Money Follows The Bottleneck (Short)
+## [2026-06-09] ingest | Tyler Hill Stocks — The Stock Market Is About To Fall Into Absolute Chaos..
+## [2026-06-09] ingest | Felix Friends — SpaceX Just Triggered the Biggest Unwind in Financial History
+## [2026-06-08] ingest | ZipTrader — This Stock Looks Like The Next 10-Bagger
+## [2026-06-08] ingest | Wallstreet Trapper — Stop Letting Fear Make You Miss Life-Changing Money
+## [2026-06-08] ingest | Wallstreet Trapper — The Trillion Dollar Race Has Already Started (Short)
+## [2026-06-08] ingest | Wallstreet Trapper — I'm NOT Buying The SpaceX IPO (Short)
+## [2026-06-08] ingest | Tyler Hill Stocks — This Is The Moment Of Truth For SoFi...
+
 ## [2026-06-11] ingest | Tyler Hill Stocks — STOCKS DUMP AFTER HUGE NEWS RELEASES (NVIDIA, AMD, MICRON, SOFI, AND MORE)
 
 ## [2026-06-03] ingest | ZipTrader — This 1 Stock Can Change (EARLY BUYERS) Lives (HIMS, FLNC, NOW)
