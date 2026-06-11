@@ -16,4 +16,6 @@ last_updated: 2026-05-31
 **Notable videos**
 - [[channels/nolan-gouveia/videos/2026-05-30-caution-quiet-tax-new-fed|2026-05-30 — CAUTION: The Quiet Tax — The New Fed Is About To Charge Everyone]] — Financial repression thesis; -2.4% real yield on savings; three-move defense: SCHD/VYM anchor + TIPS ladder + HYSA
 
-**Last video:** 2026-05-30
+- [[channels/nolan-gouveia/videos/2026-06-09-5-laws-of-dividend-etf-placement|2026-06-09 — 5 Laws Of Dividend ETF Placement (SCHD, JEPI, JEPQ, SPYI)]] — Account placement > fund selection; JEPI/JEPQ in tax-advantaged only; SPYI/QQQI in taxable; SCHD goes anywhere; VYMI foreign tax credit only works in taxable
+
+**Last video:** 2026-06-09
