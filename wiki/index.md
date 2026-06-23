@@ -65,3 +65,5 @@ last_updated: 2026-06-11
 | 2026-06-11 | ZipTrader | This $4.89 Stock Has EXPLOSIVE Potential | (sub-$5 small-cap — no transcript) |
 | 2026-06-11 | Tyler Hill Stocks | SPACEX IS ABOUT TO CHANGE THE STOCK MARKET FOREVER. | (SpaceX bullish — no transcript) |
 | 2026-06-11 | Felix Friends | The $17 Stock You'll Wish You Bought | ADPT, GOOGL |
+| 2026-06-17 | ZipTrader | Leaked: These SpaceX Partners Could Skyrocket | GSAT, SATS, VSAT, ASTS, RDW, MDA, FLTCF, PL, SPIR, LUNR |
+| 2026-06-23 | ZipTrader | This Is An Early Once-In-A-Lifetime Opportunity | BEAM, ZENA |
