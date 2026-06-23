@@ -1,5 +1,8 @@
 # Ingest Log
 
+## [2026-06-24] ingest | ZipTrader — This Is An Early Once-In-A-Lifetime Opportunity (BEAM biotech compounder; ZENA drone sponsor)
+## [2026-06-24] ingest | ZipTrader — Leaked: These SpaceX Partners Could Skyrocket (SpaceX IPO teardown; GSAT/SATS/VSAT/ASTS/RDW/PL/SPIR/LUNR acquisition playbook)
+
 ## [2026-06-11] ingest | ZipTrader — This $4.89 Stock Has EXPLOSIVE Potential
 ## [2026-06-11] ingest | Tyler Hill Stocks — SPACEX IS ABOUT TO CHANGE THE STOCK MARKET FOREVER.
 ## [2026-06-11] ingest | Felix Friends — The $17 Stock You'll Wish You Bought (Last Big Wealth Opportunity of the Decade)
