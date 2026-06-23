@@ -30,4 +30,8 @@ last_updated: 2026-06-11
 
 - [[channels/zip-trader/videos/2026-06-11-this-4-89-stock-has-explosive-potential|2026-06-11 — This $4.89 Stock Has EXPLOSIVE Potential]] — Sub-$5 small-cap main pick; multi-stock format (no transcript)
 
-**Last video:** 2026-06-11
+- [[channels/zip-trader/videos/2026-06-17-leaked-these-spacex-partners-could-skyrocket|2026-06-17 — Leaked: These SpaceX Partners Could Skyrocket]] — SpaceX IPO teardown; acquisition target playbook (GSAT, SATS, VSAT, ASTS, RDW, PL, SPIR, LUNR); Dec 8 lockup as key risk date
+
+- [[channels/zip-trader/videos/2026-06-23-this-is-an-early-once-in-a-lifetime-opportunity|2026-06-23 — This Is An Early Once-In-A-Lifetime Opportunity]] — BEAM as long-term biotech compounder; 72% off ATH; first-ever in-vivo base-editing human proof; 5 catalysts 2H 2026
+
+**Last video:** 2026-06-23
